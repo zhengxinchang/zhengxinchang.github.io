@@ -1,0 +1,6590 @@
+{
+    "GM18501": {
+        "Sample": "GM18501",
+        "Population": "YRI",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "GM18519": {
+        "Sample": "GM18519",
+        "Population": "YRI",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "GM18856": {
+        "Sample": "GM18856",
+        "Population": "YRI",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "GM18861": {
+        "Sample": "GM18861",
+        "Population": "YRI",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "GM18864": {
+        "Sample": "GM18864",
+        "Population": "YRI",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "GM18865": {
+        "Sample": "GM18865",
+        "Population": "YRI",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "GM18871": {
+        "Sample": "GM18871",
+        "Population": "YRI",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "GM18876": {
+        "Sample": "GM18876",
+        "Population": "YRI",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "GM18924": {
+        "Sample": "GM18924",
+        "Population": "YRI",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "GM19035": {
+        "Sample": "GM19035",
+        "Population": "LWK",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "GM19041": {
+        "Sample": "GM19041",
+        "Population": "LWK",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "GM19308": {
+        "Sample": "GM19308",
+        "Population": "LWK",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "GM19312": {
+        "Sample": "GM19312",
+        "Population": "LWK",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "GM19462": {
+        "Sample": "GM19462",
+        "Population": "LWK",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "GM19471": {
+        "Sample": "GM19471",
+        "Population": "LWK",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "GM19473": {
+        "Sample": "GM19473",
+        "Population": "LWK",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "HG01884": {
+        "Sample": "HG01884",
+        "Population": "ACB",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "HG01891": {
+        "Sample": "HG01891",
+        "Population": "ACB",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "HG02257": {
+        "Sample": "HG02257",
+        "Population": "ACB",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "HG02280": {
+        "Sample": "HG02280",
+        "Population": "ACB",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "HG02486": {
+        "Sample": "HG02486",
+        "Population": "ACB",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "HG02559": {
+        "Sample": "HG02559",
+        "Population": "ACB",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "HG02572": {
+        "Sample": "HG02572",
+        "Population": "GWD",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "HG02615": {
+        "Sample": "HG02615",
+        "Population": "GWD",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "HG02622": {
+        "Sample": "HG02622",
+        "Population": "GWD",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "HG02630": {
+        "Sample": "HG02630",
+        "Population": "GWD",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "HG02647": {
+        "Sample": "HG02647",
+        "Population": "GWD",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "HG02717": {
+        "Sample": "HG02717",
+        "Population": "GWD",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "HG02809": {
+        "Sample": "HG02809",
+        "Population": "GWD",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "HG02886": {
+        "Sample": "HG02886",
+        "Population": "GWD",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "HG03041": {
+        "Sample": "HG03041",
+        "Population": "GWD",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "HG03453": {
+        "Sample": "HG03453",
+        "Population": "MSL",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "HG03471": {
+        "Sample": "HG03471",
+        "Population": "MSL",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "HG03516": {
+        "Sample": "HG03516",
+        "Population": "ESN",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "HG03540": {
+        "Sample": "HG03540",
+        "Population": "GWD",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "HG03579": {
+        "Sample": "HG03579",
+        "Population": "MSL",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "NA18859": {
+        "Sample": "NA18859",
+        "Population": "YRI",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "NA18862": {
+        "Sample": "NA18862",
+        "Population": "YRI",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "NA18913": {
+        "Sample": "NA18913",
+        "Population": "YRI",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "NA19101": {
+        "Sample": "NA19101",
+        "Population": "YRI",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "NA19122": {
+        "Sample": "NA19122",
+        "Population": "YRI",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "NA19127": {
+        "Sample": "NA19127",
+        "Population": "YRI",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "NA19128": {
+        "Sample": "NA19128",
+        "Population": "YRI",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "HG01879": {
+        "Sample": "HG01879",
+        "Population": "ACB",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "HG01880": {
+        "Sample": "HG01880",
+        "Population": "ACB",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "HG01883": {
+        "Sample": "HG01883",
+        "Population": "ACB",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "HG01890": {
+        "Sample": "HG01890",
+        "Population": "ACB",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "HG01894": {
+        "Sample": "HG01894",
+        "Population": "ACB",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "HG01896": {
+        "Sample": "HG01896",
+        "Population": "ACB",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "HG01915": {
+        "Sample": "HG01915",
+        "Population": "ACB",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "HG01985": {
+        "Sample": "HG01985",
+        "Population": "ACB",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "HG01988": {
+        "Sample": "HG01988",
+        "Population": "ACB",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "HG01990": {
+        "Sample": "HG01990",
+        "Population": "ACB",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "HG02009": {
+        "Sample": "HG02009",
+        "Population": "ACB",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "HG02010": {
+        "Sample": "HG02010",
+        "Population": "ACB",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "HG02012": {
+        "Sample": "HG02012",
+        "Population": "ACB",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "HG02014": {
+        "Sample": "HG02014",
+        "Population": "ACB",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "HG02051": {
+        "Sample": "HG02051",
+        "Population": "ACB",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "HG02053": {
+        "Sample": "HG02053",
+        "Population": "ACB",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "HG02095": {
+        "Sample": "HG02095",
+        "Population": "ACB",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "HG02107": {
+        "Sample": "HG02107",
+        "Population": "ACB",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "HG02111": {
+        "Sample": "HG02111",
+        "Population": "ACB",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "HG02143": {
+        "Sample": "HG02143",
+        "Population": "ACB",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "HG02144": {
+        "Sample": "HG02144",
+        "Population": "ACB",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "HG02282": {
+        "Sample": "HG02282",
+        "Population": "ACB",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "HG02283": {
+        "Sample": "HG02283",
+        "Population": "ACB",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "HG02284": {
+        "Sample": "HG02284",
+        "Population": "ACB",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "HG02307": {
+        "Sample": "HG02307",
+        "Population": "ACB",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "HG02308": {
+        "Sample": "HG02308",
+        "Population": "ACB",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "HG02309": {
+        "Sample": "HG02309",
+        "Population": "ACB",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "HG02314": {
+        "Sample": "HG02314",
+        "Population": "ACB",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "HG02318": {
+        "Sample": "HG02318",
+        "Population": "ACB",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "HG02332": {
+        "Sample": "HG02332",
+        "Population": "ACB",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "HG02337": {
+        "Sample": "HG02337",
+        "Population": "ACB",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "HG02420": {
+        "Sample": "HG02420",
+        "Population": "ACB",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "HG02429": {
+        "Sample": "HG02429",
+        "Population": "ACB",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "HG02442": {
+        "Sample": "HG02442",
+        "Population": "ACB",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "HG02445": {
+        "Sample": "HG02445",
+        "Population": "ACB",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "HG02455": {
+        "Sample": "HG02455",
+        "Population": "ACB",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "HG02485": {
+        "Sample": "HG02485",
+        "Population": "ACB",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "HG02496": {
+        "Sample": "HG02496",
+        "Population": "ACB",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "HG02502": {
+        "Sample": "HG02502",
+        "Population": "ACB",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "HG02545": {
+        "Sample": "HG02545",
+        "Population": "ACB",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "HG02546": {
+        "Sample": "HG02546",
+        "Population": "ACB",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "HG02554": {
+        "Sample": "HG02554",
+        "Population": "ACB",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "HG02558": {
+        "Sample": "HG02558",
+        "Population": "ACB",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "HG02561": {
+        "Sample": "HG02561",
+        "Population": "GWD",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "HG02562": {
+        "Sample": "HG02562",
+        "Population": "GWD",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "HG02568": {
+        "Sample": "HG02568",
+        "Population": "GWD",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "HG02573": {
+        "Sample": "HG02573",
+        "Population": "GWD",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "HG02577": {
+        "Sample": "HG02577",
+        "Population": "ACB",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "HG02580": {
+        "Sample": "HG02580",
+        "Population": "ACB",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "HG02582": {
+        "Sample": "HG02582",
+        "Population": "GWD",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "HG02585": {
+        "Sample": "HG02585",
+        "Population": "GWD",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "HG02588": {
+        "Sample": "HG02588",
+        "Population": "GWD",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "HG02595": {
+        "Sample": "HG02595",
+        "Population": "GWD",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "HG02611": {
+        "Sample": "HG02611",
+        "Population": "GWD",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "HG02614": {
+        "Sample": "HG02614",
+        "Population": "GWD",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "HG02634": {
+        "Sample": "HG02634",
+        "Population": "GWD",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "HG02635": {
+        "Sample": "HG02635",
+        "Population": "GWD",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "HG02643": {
+        "Sample": "HG02643",
+        "Population": "GWD",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "HG02678": {
+        "Sample": "HG02678",
+        "Population": "GWD",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "HG02679": {
+        "Sample": "HG02679",
+        "Population": "GWD",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "HG02703": {
+        "Sample": "HG02703",
+        "Population": "GWD",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "HG02715": {
+        "Sample": "HG02715",
+        "Population": "GWD",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "HG02721": {
+        "Sample": "HG02721",
+        "Population": "GWD",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "HG02768": {
+        "Sample": "HG02768",
+        "Population": "GWD",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "HG02771": {
+        "Sample": "HG02771",
+        "Population": "GWD",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "HG02805": {
+        "Sample": "HG02805",
+        "Population": "GWD",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "HG02817": {
+        "Sample": "HG02817",
+        "Population": "GWD",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "HG02836": {
+        "Sample": "HG02836",
+        "Population": "GWD",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "HG02922": {
+        "Sample": "HG02922",
+        "Population": "ESN",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "HG02938": {
+        "Sample": "HG02938",
+        "Population": "ESN",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "HG02943": {
+        "Sample": "HG02943",
+        "Population": "ESN",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "HG02944": {
+        "Sample": "HG02944",
+        "Population": "ESN",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "HG02953": {
+        "Sample": "HG02953",
+        "Population": "ESN",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "HG02965": {
+        "Sample": "HG02965",
+        "Population": "ESN",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "HG02970": {
+        "Sample": "HG02970",
+        "Population": "ESN",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "HG02971": {
+        "Sample": "HG02971",
+        "Population": "ESN",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "HG02974": {
+        "Sample": "HG02974",
+        "Population": "ESN",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "HG02976": {
+        "Sample": "HG02976",
+        "Population": "ESN",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "HG02979": {
+        "Sample": "HG02979",
+        "Population": "ESN",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "HG02982": {
+        "Sample": "HG02982",
+        "Population": "GWD",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "HG02983": {
+        "Sample": "HG02983",
+        "Population": "GWD",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "HG03024": {
+        "Sample": "HG03024",
+        "Population": "GWD",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "HG03028": {
+        "Sample": "HG03028",
+        "Population": "GWD",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "HG03039": {
+        "Sample": "HG03039",
+        "Population": "GWD",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "HG03048": {
+        "Sample": "HG03048",
+        "Population": "GWD",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "HG03052": {
+        "Sample": "HG03052",
+        "Population": "MSL",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "HG03057": {
+        "Sample": "HG03057",
+        "Population": "MSL",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "HG03058": {
+        "Sample": "HG03058",
+        "Population": "MSL",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "HG03060": {
+        "Sample": "HG03060",
+        "Population": "MSL",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "HG03069": {
+        "Sample": "HG03069",
+        "Population": "MSL",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "HG03073": {
+        "Sample": "HG03073",
+        "Population": "MSL",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "HG03074": {
+        "Sample": "HG03074",
+        "Population": "MSL",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "HG03077": {
+        "Sample": "HG03077",
+        "Population": "MSL",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "HG03081": {
+        "Sample": "HG03081",
+        "Population": "MSL",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "HG03085": {
+        "Sample": "HG03085",
+        "Population": "MSL",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "HG03086": {
+        "Sample": "HG03086",
+        "Population": "MSL",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "HG03091": {
+        "Sample": "HG03091",
+        "Population": "MSL",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "HG03097": {
+        "Sample": "HG03097",
+        "Population": "MSL",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "HG03100": {
+        "Sample": "HG03100",
+        "Population": "ESN",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "HG03103": {
+        "Sample": "HG03103",
+        "Population": "ESN",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "HG03105": {
+        "Sample": "HG03105",
+        "Population": "ESN",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "HG03108": {
+        "Sample": "HG03108",
+        "Population": "ESN",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "HG03109": {
+        "Sample": "HG03109",
+        "Population": "ESN",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "HG03111": {
+        "Sample": "HG03111",
+        "Population": "ESN",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "HG03112": {
+        "Sample": "HG03112",
+        "Population": "ESN",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "HG03114": {
+        "Sample": "HG03114",
+        "Population": "ESN",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "HG03115": {
+        "Sample": "HG03115",
+        "Population": "ESN",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "HG03117": {
+        "Sample": "HG03117",
+        "Population": "ESN",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "HG03120": {
+        "Sample": "HG03120",
+        "Population": "ESN",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "HG03121": {
+        "Sample": "HG03121",
+        "Population": "ESN",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "HG03124": {
+        "Sample": "HG03124",
+        "Population": "ESN",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "HG03130": {
+        "Sample": "HG03130",
+        "Population": "ESN",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "HG03132": {
+        "Sample": "HG03132",
+        "Population": "ESN",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "HG03133": {
+        "Sample": "HG03133",
+        "Population": "ESN",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "HG03159": {
+        "Sample": "HG03159",
+        "Population": "ESN",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "HG03163": {
+        "Sample": "HG03163",
+        "Population": "ESN",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "HG03168": {
+        "Sample": "HG03168",
+        "Population": "ESN",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "HG03172": {
+        "Sample": "HG03172",
+        "Population": "ESN",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "HG03189": {
+        "Sample": "HG03189",
+        "Population": "ESN",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "HG03193": {
+        "Sample": "HG03193",
+        "Population": "ESN",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "HG03195": {
+        "Sample": "HG03195",
+        "Population": "ESN",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "HG03198": {
+        "Sample": "HG03198",
+        "Population": "ESN",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "HG03199": {
+        "Sample": "HG03199",
+        "Population": "ESN",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "HG03209": {
+        "Sample": "HG03209",
+        "Population": "MSL",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "HG03212": {
+        "Sample": "HG03212",
+        "Population": "MSL",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "HG03240": {
+        "Sample": "HG03240",
+        "Population": "GWD",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "HG03241": {
+        "Sample": "HG03241",
+        "Population": "GWD",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "HG03247": {
+        "Sample": "HG03247",
+        "Population": "GWD",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "HG03258": {
+        "Sample": "HG03258",
+        "Population": "GWD",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "HG03265": {
+        "Sample": "HG03265",
+        "Population": "ESN",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "HG03279": {
+        "Sample": "HG03279",
+        "Population": "ESN",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "HG03300": {
+        "Sample": "HG03300",
+        "Population": "ESN",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "HG03301": {
+        "Sample": "HG03301",
+        "Population": "ESN",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "HG03303": {
+        "Sample": "HG03303",
+        "Population": "ESN",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "HG03307": {
+        "Sample": "HG03307",
+        "Population": "ESN",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "HG03311": {
+        "Sample": "HG03311",
+        "Population": "ESN",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "HG03342": {
+        "Sample": "HG03342",
+        "Population": "ESN",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "HG03372": {
+        "Sample": "HG03372",
+        "Population": "ESN",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "HG03373": {
+        "Sample": "HG03373",
+        "Population": "ESN",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "HG03388": {
+        "Sample": "HG03388",
+        "Population": "MSL",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "HG03391": {
+        "Sample": "HG03391",
+        "Population": "MSL",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "HG03394": {
+        "Sample": "HG03394",
+        "Population": "MSL",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "HG03397": {
+        "Sample": "HG03397",
+        "Population": "MSL",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "HG03410": {
+        "Sample": "HG03410",
+        "Population": "MSL",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "HG03437": {
+        "Sample": "HG03437",
+        "Population": "MSL",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "HG03439": {
+        "Sample": "HG03439",
+        "Population": "MSL",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "HG03442": {
+        "Sample": "HG03442",
+        "Population": "MSL",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "HG03449": {
+        "Sample": "HG03449",
+        "Population": "MSL",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "HG03455": {
+        "Sample": "HG03455",
+        "Population": "MSL",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "HG03457": {
+        "Sample": "HG03457",
+        "Population": "MSL",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "HG03461": {
+        "Sample": "HG03461",
+        "Population": "MSL",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "HG03470": {
+        "Sample": "HG03470",
+        "Population": "MSL",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "HG03473": {
+        "Sample": "HG03473",
+        "Population": "MSL",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "HG03476": {
+        "Sample": "HG03476",
+        "Population": "MSL",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "HG03484": {
+        "Sample": "HG03484",
+        "Population": "MSL",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "HG03485": {
+        "Sample": "HG03485",
+        "Population": "MSL",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "HG03499": {
+        "Sample": "HG03499",
+        "Population": "ESN",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "HG03517": {
+        "Sample": "HG03517",
+        "Population": "ESN",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "HG03518": {
+        "Sample": "HG03518",
+        "Population": "ESN",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "HG03521": {
+        "Sample": "HG03521",
+        "Population": "ESN",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "HG03539": {
+        "Sample": "HG03539",
+        "Population": "GWD",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "HG03548": {
+        "Sample": "HG03548",
+        "Population": "MSL",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "HG03563": {
+        "Sample": "HG03563",
+        "Population": "MSL",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "HG03571": {
+        "Sample": "HG03571",
+        "Population": "MSL",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "HG03577": {
+        "Sample": "HG03577",
+        "Population": "MSL",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "HG03582": {
+        "Sample": "HG03582",
+        "Population": "MSL",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "NA18498": {
+        "Sample": "NA18498",
+        "Population": "YRI",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "NA18499": {
+        "Sample": "NA18499",
+        "Population": "YRI",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "NA18502": {
+        "Sample": "NA18502",
+        "Population": "YRI",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "NA18504": {
+        "Sample": "NA18504",
+        "Population": "YRI",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "NA18510": {
+        "Sample": "NA18510",
+        "Population": "YRI",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "NA18516": {
+        "Sample": "NA18516",
+        "Population": "YRI",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "NA18520": {
+        "Sample": "NA18520",
+        "Population": "YRI",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "NA18523": {
+        "Sample": "NA18523",
+        "Population": "YRI",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "NA18853": {
+        "Sample": "NA18853",
+        "Population": "YRI",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "NA18867": {
+        "Sample": "NA18867",
+        "Population": "YRI",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "NA18868": {
+        "Sample": "NA18868",
+        "Population": "YRI",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "NA18873": {
+        "Sample": "NA18873",
+        "Population": "YRI",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "NA18874": {
+        "Sample": "NA18874",
+        "Population": "YRI",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "NA18912": {
+        "Sample": "NA18912",
+        "Population": "YRI",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "NA19017": {
+        "Sample": "NA19017",
+        "Population": "LWK",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "NA19019": {
+        "Sample": "NA19019",
+        "Population": "LWK",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "NA19024": {
+        "Sample": "NA19024",
+        "Population": "LWK",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "NA19028": {
+        "Sample": "NA19028",
+        "Population": "LWK",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "NA19031": {
+        "Sample": "NA19031",
+        "Population": "LWK",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "NA19037": {
+        "Sample": "NA19037",
+        "Population": "LWK",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "NA19043": {
+        "Sample": "NA19043",
+        "Population": "LWK",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "NA19096": {
+        "Sample": "NA19096",
+        "Population": "YRI",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "NA19113": {
+        "Sample": "NA19113",
+        "Population": "YRI",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "NA19114": {
+        "Sample": "NA19114",
+        "Population": "YRI",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "NA19118": {
+        "Sample": "NA19118",
+        "Population": "YRI",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "NA19119": {
+        "Sample": "NA19119",
+        "Population": "YRI",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "NA19137": {
+        "Sample": "NA19137",
+        "Population": "YRI",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "NA19144": {
+        "Sample": "NA19144",
+        "Population": "YRI",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "NA19146": {
+        "Sample": "NA19146",
+        "Population": "YRI",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "NA19147": {
+        "Sample": "NA19147",
+        "Population": "YRI",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "NA19153": {
+        "Sample": "NA19153",
+        "Population": "YRI",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "NA19189": {
+        "Sample": "NA19189",
+        "Population": "YRI",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "NA19197": {
+        "Sample": "NA19197",
+        "Population": "YRI",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "NA19207": {
+        "Sample": "NA19207",
+        "Population": "YRI",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "NA19238": {
+        "Sample": "NA19238",
+        "Population": "YRI",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "NA19307": {
+        "Sample": "NA19307",
+        "Population": "LWK",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "NA19310": {
+        "Sample": "NA19310",
+        "Population": "LWK",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "NA19315": {
+        "Sample": "NA19315",
+        "Population": "LWK",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "NA19319": {
+        "Sample": "NA19319",
+        "Population": "LWK",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "NA19327": {
+        "Sample": "NA19327",
+        "Population": "LWK",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "NA19328": {
+        "Sample": "NA19328",
+        "Population": "LWK",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "NA19331": {
+        "Sample": "NA19331",
+        "Population": "LWK",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "NA19338": {
+        "Sample": "NA19338",
+        "Population": "LWK",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "NA19347": {
+        "Sample": "NA19347",
+        "Population": "LWK",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "NA19350": {
+        "Sample": "NA19350",
+        "Population": "LWK",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "NA19351": {
+        "Sample": "NA19351",
+        "Population": "LWK",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "NA19355": {
+        "Sample": "NA19355",
+        "Population": "LWK",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "NA19383": {
+        "Sample": "NA19383",
+        "Population": "LWK",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "NA19385": {
+        "Sample": "NA19385",
+        "Population": "LWK",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "NA19391": {
+        "Sample": "NA19391",
+        "Population": "LWK",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "NA19393": {
+        "Sample": "NA19393",
+        "Population": "LWK",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "NA19397": {
+        "Sample": "NA19397",
+        "Population": "LWK",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "NA19399": {
+        "Sample": "NA19399",
+        "Population": "LWK",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "NA19403": {
+        "Sample": "NA19403",
+        "Population": "LWK",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "NA19439": {
+        "Sample": "NA19439",
+        "Population": "LWK",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "NA19449": {
+        "Sample": "NA19449",
+        "Population": "LWK",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "NA19463": {
+        "Sample": "NA19463",
+        "Population": "LWK",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "NA19472": {
+        "Sample": "NA19472",
+        "Population": "LWK",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "NA19700": {
+        "Sample": "NA19700",
+        "Population": "ASW",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "NA19701": {
+        "Sample": "NA19701",
+        "Population": "ASW",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "NA19707": {
+        "Sample": "NA19707",
+        "Population": "ASW",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "NA19711": {
+        "Sample": "NA19711",
+        "Population": "ASW",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "NA19818": {
+        "Sample": "NA19818",
+        "Population": "ASW",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "NA19819": {
+        "Sample": "NA19819",
+        "Population": "ASW",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "NA19834": {
+        "Sample": "NA19834",
+        "Population": "ASW",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "NA19835": {
+        "Sample": "NA19835",
+        "Population": "ASW",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "NA19900": {
+        "Sample": "NA19900",
+        "Population": "ASW",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "NA19901": {
+        "Sample": "NA19901",
+        "Population": "ASW",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "NA19904": {
+        "Sample": "NA19904",
+        "Population": "ASW",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "NA19908": {
+        "Sample": "NA19908",
+        "Population": "ASW",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "NA19909": {
+        "Sample": "NA19909",
+        "Population": "ASW",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "NA19916": {
+        "Sample": "NA19916",
+        "Population": "ASW",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "NA19921": {
+        "Sample": "NA19921",
+        "Population": "ASW",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "NA20127": {
+        "Sample": "NA20127",
+        "Population": "ASW",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "NA20276": {
+        "Sample": "NA20276",
+        "Population": "ASW",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "NA20278": {
+        "Sample": "NA20278",
+        "Population": "ASW",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "NA20281": {
+        "Sample": "NA20281",
+        "Population": "ASW",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "NA20289": {
+        "Sample": "NA20289",
+        "Population": "ASW",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "NA20294": {
+        "Sample": "NA20294",
+        "Population": "ASW",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "NA20298": {
+        "Sample": "NA20298",
+        "Population": "ASW",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "NA20314": {
+        "Sample": "NA20314",
+        "Population": "ASW",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "NA20332": {
+        "Sample": "NA20332",
+        "Population": "ASW",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "NA20334": {
+        "Sample": "NA20334",
+        "Population": "ASW",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "NA20342": {
+        "Sample": "NA20342",
+        "Population": "ASW",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "NA20346": {
+        "Sample": "NA20346",
+        "Population": "ASW",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "NA20348": {
+        "Sample": "NA20348",
+        "Population": "ASW",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "NA20356": {
+        "Sample": "NA20356",
+        "Population": "ASW",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "NA20357": {
+        "Sample": "NA20357",
+        "Population": "ASW",
+        "Super_Population": "AFR",
+        "Sex": "Male"
+    },
+    "NA20359": {
+        "Sample": "NA20359",
+        "Population": "ASW",
+        "Super_Population": "AFR",
+        "Sex": "Female"
+    },
+    "HG00639": {
+        "Sample": "HG00639",
+        "Population": "PUR",
+        "Super_Population": "AMR",
+        "Sex": "Female"
+    },
+    "HG00642": {
+        "Sample": "HG00642",
+        "Population": "PUR",
+        "Super_Population": "AMR",
+        "Sex": "Female"
+    },
+    "HG00735": {
+        "Sample": "HG00735",
+        "Population": "PUR",
+        "Super_Population": "AMR",
+        "Sex": "Male"
+    },
+    "HG00738": {
+        "Sample": "HG00738",
+        "Population": "PUR",
+        "Super_Population": "AMR",
+        "Sex": "Female"
+    },
+    "HG00741": {
+        "Sample": "HG00741",
+        "Population": "PUR",
+        "Super_Population": "AMR",
+        "Sex": "Male"
+    },
+    "HG01071": {
+        "Sample": "HG01071",
+        "Population": "PUR",
+        "Super_Population": "AMR",
+        "Sex": "Female"
+    },
+    "HG01081": {
+        "Sample": "HG01081",
+        "Population": "PUR",
+        "Super_Population": "AMR",
+        "Sex": "Female"
+    },
+    "HG01099": {
+        "Sample": "HG01099",
+        "Population": "PUR",
+        "Super_Population": "AMR",
+        "Sex": "Female"
+    },
+    "HG01106": {
+        "Sample": "HG01106",
+        "Population": "PUR",
+        "Super_Population": "AMR",
+        "Sex": "Male"
+    },
+    "HG01123": {
+        "Sample": "HG01123",
+        "Population": "CLM",
+        "Super_Population": "AMR",
+        "Sex": "Male"
+    },
+    "HG01175": {
+        "Sample": "HG01175",
+        "Population": "PUR",
+        "Super_Population": "AMR",
+        "Sex": "Female"
+    },
+    "HG01255": {
+        "Sample": "HG01255",
+        "Population": "CLM",
+        "Super_Population": "AMR",
+        "Sex": "Female"
+    },
+    "HG01258": {
+        "Sample": "HG01258",
+        "Population": "CLM",
+        "Super_Population": "AMR",
+        "Sex": "Male"
+    },
+    "HG01261": {
+        "Sample": "HG01261",
+        "Population": "CLM",
+        "Super_Population": "AMR",
+        "Sex": "Male"
+    },
+    "HG01346": {
+        "Sample": "HG01346",
+        "Population": "CLM",
+        "Super_Population": "AMR",
+        "Sex": "Male"
+    },
+    "HG01358": {
+        "Sample": "HG01358",
+        "Population": "CLM",
+        "Super_Population": "AMR",
+        "Sex": "Female"
+    },
+    "HG01361": {
+        "Sample": "HG01361",
+        "Population": "CLM",
+        "Super_Population": "AMR",
+        "Sex": "Male"
+    },
+    "HG01433": {
+        "Sample": "HG01433",
+        "Population": "CLM",
+        "Super_Population": "AMR",
+        "Sex": "Female"
+    },
+    "HG01496": {
+        "Sample": "HG01496",
+        "Population": "CLM",
+        "Super_Population": "AMR",
+        "Sex": "Male"
+    },
+    "HG01928": {
+        "Sample": "HG01928",
+        "Population": "PEL",
+        "Super_Population": "AMR",
+        "Sex": "Female"
+    },
+    "HG01934": {
+        "Sample": "HG01934",
+        "Population": "PEL",
+        "Super_Population": "AMR",
+        "Sex": "Male"
+    },
+    "HG01943": {
+        "Sample": "HG01943",
+        "Population": "PEL",
+        "Super_Population": "AMR",
+        "Sex": "Male"
+    },
+    "HG01952": {
+        "Sample": "HG01952",
+        "Population": "PEL",
+        "Super_Population": "AMR",
+        "Sex": "Male"
+    },
+    "HG01975": {
+        "Sample": "HG01975",
+        "Population": "PEL",
+        "Super_Population": "AMR",
+        "Sex": "Male"
+    },
+    "HG01978": {
+        "Sample": "HG01978",
+        "Population": "PEL",
+        "Super_Population": "AMR",
+        "Sex": "Female"
+    },
+    "HG01981": {
+        "Sample": "HG01981",
+        "Population": "PEL",
+        "Super_Population": "AMR",
+        "Sex": "Female"
+    },
+    "HG01993": {
+        "Sample": "HG01993",
+        "Population": "PEL",
+        "Super_Population": "AMR",
+        "Sex": "Female"
+    },
+    "HG02004": {
+        "Sample": "HG02004",
+        "Population": "PEL",
+        "Super_Population": "AMR",
+        "Sex": "Female"
+    },
+    "HG02148": {
+        "Sample": "HG02148",
+        "Population": "PEL",
+        "Super_Population": "AMR",
+        "Sex": "Female"
+    },
+    "HG02273": {
+        "Sample": "HG02273",
+        "Population": "PEL",
+        "Super_Population": "AMR",
+        "Sex": "Female"
+    },
+    "HG02293": {
+        "Sample": "HG02293",
+        "Population": "PEL",
+        "Super_Population": "AMR",
+        "Sex": "Female"
+    },
+    "HG02300": {
+        "Sample": "HG02300",
+        "Population": "PEL",
+        "Super_Population": "AMR",
+        "Sex": "Female"
+    },
+    "HG00551": {
+        "Sample": "HG00551",
+        "Population": "PUR",
+        "Super_Population": "AMR",
+        "Sex": "Female"
+    },
+    "HG00637": {
+        "Sample": "HG00637",
+        "Population": "PUR",
+        "Super_Population": "AMR",
+        "Sex": "Female"
+    },
+    "HG00641": {
+        "Sample": "HG00641",
+        "Population": "PUR",
+        "Super_Population": "AMR",
+        "Sex": "Male"
+    },
+    "HG00731": {
+        "Sample": "HG00731",
+        "Population": "PUR",
+        "Super_Population": "AMR",
+        "Sex": "Female"
+    },
+    "HG00736": {
+        "Sample": "HG00736",
+        "Population": "PUR",
+        "Super_Population": "AMR",
+        "Sex": "Male"
+    },
+    "HG00737": {
+        "Sample": "HG00737",
+        "Population": "PUR",
+        "Super_Population": "AMR",
+        "Sex": "Male"
+    },
+    "HG00739": {
+        "Sample": "HG00739",
+        "Population": "PUR",
+        "Super_Population": "AMR",
+        "Sex": "Female"
+    },
+    "HG00740": {
+        "Sample": "HG00740",
+        "Population": "PUR",
+        "Super_Population": "AMR",
+        "Sex": "Male"
+    },
+    "HG01047": {
+        "Sample": "HG01047",
+        "Population": "PUR",
+        "Super_Population": "AMR",
+        "Sex": "Female"
+    },
+    "HG01048": {
+        "Sample": "HG01048",
+        "Population": "PUR",
+        "Super_Population": "AMR",
+        "Sex": "Male"
+    },
+    "HG01054": {
+        "Sample": "HG01054",
+        "Population": "PUR",
+        "Super_Population": "AMR",
+        "Sex": "Male"
+    },
+    "HG01055": {
+        "Sample": "HG01055",
+        "Population": "PUR",
+        "Super_Population": "AMR",
+        "Sex": "Male"
+    },
+    "HG01058": {
+        "Sample": "HG01058",
+        "Population": "PUR",
+        "Super_Population": "AMR",
+        "Sex": "Female"
+    },
+    "HG01060": {
+        "Sample": "HG01060",
+        "Population": "PUR",
+        "Super_Population": "AMR",
+        "Sex": "Female"
+    },
+    "HG01066": {
+        "Sample": "HG01066",
+        "Population": "PUR",
+        "Super_Population": "AMR",
+        "Sex": "Male"
+    },
+    "HG01072": {
+        "Sample": "HG01072",
+        "Population": "PUR",
+        "Super_Population": "AMR",
+        "Sex": "Male"
+    },
+    "HG01073": {
+        "Sample": "HG01073",
+        "Population": "PUR",
+        "Super_Population": "AMR",
+        "Sex": "Male"
+    },
+    "HG01085": {
+        "Sample": "HG01085",
+        "Population": "PUR",
+        "Super_Population": "AMR",
+        "Sex": "Female"
+    },
+    "HG01086": {
+        "Sample": "HG01086",
+        "Population": "PUR",
+        "Super_Population": "AMR",
+        "Sex": "Male"
+    },
+    "HG01089": {
+        "Sample": "HG01089",
+        "Population": "PUR",
+        "Super_Population": "AMR",
+        "Sex": "Female"
+    },
+    "HG01101": {
+        "Sample": "HG01101",
+        "Population": "PUR",
+        "Super_Population": "AMR",
+        "Sex": "Female"
+    },
+    "HG01102": {
+        "Sample": "HG01102",
+        "Population": "PUR",
+        "Super_Population": "AMR",
+        "Sex": "Male"
+    },
+    "HG01104": {
+        "Sample": "HG01104",
+        "Population": "PUR",
+        "Super_Population": "AMR",
+        "Sex": "Female"
+    },
+    "HG01107": {
+        "Sample": "HG01107",
+        "Population": "PUR",
+        "Super_Population": "AMR",
+        "Sex": "Male"
+    },
+    "HG01108": {
+        "Sample": "HG01108",
+        "Population": "PUR",
+        "Super_Population": "AMR",
+        "Sex": "Male"
+    },
+    "HG01119": {
+        "Sample": "HG01119",
+        "Population": "CLM",
+        "Super_Population": "AMR",
+        "Sex": "Female"
+    },
+    "HG01121": {
+        "Sample": "HG01121",
+        "Population": "CLM",
+        "Super_Population": "AMR",
+        "Sex": "Female"
+    },
+    "HG01122": {
+        "Sample": "HG01122",
+        "Population": "CLM",
+        "Super_Population": "AMR",
+        "Sex": "Male"
+    },
+    "HG01124": {
+        "Sample": "HG01124",
+        "Population": "CLM",
+        "Super_Population": "AMR",
+        "Sex": "Female"
+    },
+    "HG01130": {
+        "Sample": "HG01130",
+        "Population": "CLM",
+        "Super_Population": "AMR",
+        "Sex": "Male"
+    },
+    "HG01131": {
+        "Sample": "HG01131",
+        "Population": "CLM",
+        "Super_Population": "AMR",
+        "Sex": "Male"
+    },
+    "HG01133": {
+        "Sample": "HG01133",
+        "Population": "CLM",
+        "Super_Population": "AMR",
+        "Sex": "Female"
+    },
+    "HG01134": {
+        "Sample": "HG01134",
+        "Population": "CLM",
+        "Super_Population": "AMR",
+        "Sex": "Male"
+    },
+    "HG01136": {
+        "Sample": "HG01136",
+        "Population": "CLM",
+        "Super_Population": "AMR",
+        "Sex": "Female"
+    },
+    "HG01137": {
+        "Sample": "HG01137",
+        "Population": "CLM",
+        "Super_Population": "AMR",
+        "Sex": "Male"
+    },
+    "HG01142": {
+        "Sample": "HG01142",
+        "Population": "CLM",
+        "Super_Population": "AMR",
+        "Sex": "Female"
+    },
+    "HG01148": {
+        "Sample": "HG01148",
+        "Population": "CLM",
+        "Super_Population": "AMR",
+        "Sex": "Male"
+    },
+    "HG01167": {
+        "Sample": "HG01167",
+        "Population": "PUR",
+        "Super_Population": "AMR",
+        "Sex": "Male"
+    },
+    "HG01168": {
+        "Sample": "HG01168",
+        "Population": "PUR",
+        "Super_Population": "AMR",
+        "Sex": "Male"
+    },
+    "HG01174": {
+        "Sample": "HG01174",
+        "Population": "PUR",
+        "Super_Population": "AMR",
+        "Sex": "Female"
+    },
+    "HG01187": {
+        "Sample": "HG01187",
+        "Population": "PUR",
+        "Super_Population": "AMR",
+        "Sex": "Female"
+    },
+    "HG01188": {
+        "Sample": "HG01188",
+        "Population": "PUR",
+        "Super_Population": "AMR",
+        "Sex": "Male"
+    },
+    "HG01197": {
+        "Sample": "HG01197",
+        "Population": "PUR",
+        "Super_Population": "AMR",
+        "Sex": "Female"
+    },
+    "HG01198": {
+        "Sample": "HG01198",
+        "Population": "PUR",
+        "Super_Population": "AMR",
+        "Sex": "Male"
+    },
+    "HG01241": {
+        "Sample": "HG01241",
+        "Population": "PUR",
+        "Super_Population": "AMR",
+        "Sex": "Female"
+    },
+    "HG01242": {
+        "Sample": "HG01242",
+        "Population": "PUR",
+        "Super_Population": "AMR",
+        "Sex": "Male"
+    },
+    "HG01256": {
+        "Sample": "HG01256",
+        "Population": "CLM",
+        "Super_Population": "AMR",
+        "Sex": "Female"
+    },
+    "HG01257": {
+        "Sample": "HG01257",
+        "Population": "CLM",
+        "Super_Population": "AMR",
+        "Sex": "Male"
+    },
+    "HG01259": {
+        "Sample": "HG01259",
+        "Population": "CLM",
+        "Super_Population": "AMR",
+        "Sex": "Female"
+    },
+    "HG01269": {
+        "Sample": "HG01269",
+        "Population": "CLM",
+        "Super_Population": "AMR",
+        "Sex": "Male"
+    },
+    "HG01275": {
+        "Sample": "HG01275",
+        "Population": "CLM",
+        "Super_Population": "AMR",
+        "Sex": "Female"
+    },
+    "HG01278": {
+        "Sample": "HG01278",
+        "Population": "CLM",
+        "Super_Population": "AMR",
+        "Sex": "Female"
+    },
+    "HG01281": {
+        "Sample": "HG01281",
+        "Population": "CLM",
+        "Super_Population": "AMR",
+        "Sex": "Female"
+    },
+    "HG01284": {
+        "Sample": "HG01284",
+        "Population": "CLM",
+        "Super_Population": "AMR",
+        "Sex": "Female"
+    },
+    "HG01286": {
+        "Sample": "HG01286",
+        "Population": "PUR",
+        "Super_Population": "AMR",
+        "Sex": "Female"
+    },
+    "HG01311": {
+        "Sample": "HG01311",
+        "Population": "PUR",
+        "Super_Population": "AMR",
+        "Sex": "Male"
+    },
+    "HG01312": {
+        "Sample": "HG01312",
+        "Population": "PUR",
+        "Super_Population": "AMR",
+        "Sex": "Male"
+    },
+    "HG01341": {
+        "Sample": "HG01341",
+        "Population": "CLM",
+        "Super_Population": "AMR",
+        "Sex": "Female"
+    },
+    "HG01345": {
+        "Sample": "HG01345",
+        "Population": "CLM",
+        "Super_Population": "AMR",
+        "Sex": "Male"
+    },
+    "HG01347": {
+        "Sample": "HG01347",
+        "Population": "CLM",
+        "Super_Population": "AMR",
+        "Sex": "Female"
+    },
+    "HG01348": {
+        "Sample": "HG01348",
+        "Population": "CLM",
+        "Super_Population": "AMR",
+        "Sex": "Male"
+    },
+    "HG01356": {
+        "Sample": "HG01356",
+        "Population": "CLM",
+        "Super_Population": "AMR",
+        "Sex": "Female"
+    },
+    "HG01362": {
+        "Sample": "HG01362",
+        "Population": "CLM",
+        "Super_Population": "AMR",
+        "Sex": "Male"
+    },
+    "HG01363": {
+        "Sample": "HG01363",
+        "Population": "CLM",
+        "Super_Population": "AMR",
+        "Sex": "Male"
+    },
+    "HG01366": {
+        "Sample": "HG01366",
+        "Population": "CLM",
+        "Super_Population": "AMR",
+        "Sex": "Female"
+    },
+    "HG01369": {
+        "Sample": "HG01369",
+        "Population": "CLM",
+        "Super_Population": "AMR",
+        "Sex": "Female"
+    },
+    "HG01372": {
+        "Sample": "HG01372",
+        "Population": "CLM",
+        "Super_Population": "AMR",
+        "Sex": "Female"
+    },
+    "HG01377": {
+        "Sample": "HG01377",
+        "Population": "CLM",
+        "Super_Population": "AMR",
+        "Sex": "Female"
+    },
+    "HG01384": {
+        "Sample": "HG01384",
+        "Population": "CLM",
+        "Super_Population": "AMR",
+        "Sex": "Male"
+    },
+    "HG01389": {
+        "Sample": "HG01389",
+        "Population": "CLM",
+        "Super_Population": "AMR",
+        "Sex": "Female"
+    },
+    "HG01390": {
+        "Sample": "HG01390",
+        "Population": "CLM",
+        "Super_Population": "AMR",
+        "Sex": "Male"
+    },
+    "HG01392": {
+        "Sample": "HG01392",
+        "Population": "PUR",
+        "Super_Population": "AMR",
+        "Sex": "Female"
+    },
+    "HG01395": {
+        "Sample": "HG01395",
+        "Population": "PUR",
+        "Super_Population": "AMR",
+        "Sex": "Male"
+    },
+    "HG01396": {
+        "Sample": "HG01396",
+        "Population": "PUR",
+        "Super_Population": "AMR",
+        "Sex": "Male"
+    },
+    "HG01398": {
+        "Sample": "HG01398",
+        "Population": "PUR",
+        "Super_Population": "AMR",
+        "Sex": "Female"
+    },
+    "HG01412": {
+        "Sample": "HG01412",
+        "Population": "PUR",
+        "Super_Population": "AMR",
+        "Sex": "Male"
+    },
+    "HG01414": {
+        "Sample": "HG01414",
+        "Population": "PUR",
+        "Super_Population": "AMR",
+        "Sex": "Male"
+    },
+    "HG01447": {
+        "Sample": "HG01447",
+        "Population": "CLM",
+        "Super_Population": "AMR",
+        "Sex": "Female"
+    },
+    "HG01455": {
+        "Sample": "HG01455",
+        "Population": "CLM",
+        "Super_Population": "AMR",
+        "Sex": "Female"
+    },
+    "HG01464": {
+        "Sample": "HG01464",
+        "Population": "CLM",
+        "Super_Population": "AMR",
+        "Sex": "Male"
+    },
+    "HG01465": {
+        "Sample": "HG01465",
+        "Population": "CLM",
+        "Super_Population": "AMR",
+        "Sex": "Male"
+    },
+    "HG01468": {
+        "Sample": "HG01468",
+        "Population": "CLM",
+        "Super_Population": "AMR",
+        "Sex": "Female"
+    },
+    "HG01474": {
+        "Sample": "HG01474",
+        "Population": "CLM",
+        "Super_Population": "AMR",
+        "Sex": "Female"
+    },
+    "HG01479": {
+        "Sample": "HG01479",
+        "Population": "CLM",
+        "Super_Population": "AMR",
+        "Sex": "Female"
+    },
+    "HG01489": {
+        "Sample": "HG01489",
+        "Population": "CLM",
+        "Super_Population": "AMR",
+        "Sex": "Male"
+    },
+    "HG01492": {
+        "Sample": "HG01492",
+        "Population": "CLM",
+        "Super_Population": "AMR",
+        "Sex": "Female"
+    },
+    "HG01494": {
+        "Sample": "HG01494",
+        "Population": "CLM",
+        "Super_Population": "AMR",
+        "Sex": "Female"
+    },
+    "HG01550": {
+        "Sample": "HG01550",
+        "Population": "CLM",
+        "Super_Population": "AMR",
+        "Sex": "Male"
+    },
+    "HG01551": {
+        "Sample": "HG01551",
+        "Population": "CLM",
+        "Super_Population": "AMR",
+        "Sex": "Male"
+    },
+    "HG01566": {
+        "Sample": "HG01566",
+        "Population": "PEL",
+        "Super_Population": "AMR",
+        "Sex": "Female"
+    },
+    "HG01571": {
+        "Sample": "HG01571",
+        "Population": "PEL",
+        "Super_Population": "AMR",
+        "Sex": "Female"
+    },
+    "HG01572": {
+        "Sample": "HG01572",
+        "Population": "PEL",
+        "Super_Population": "AMR",
+        "Sex": "Male"
+    },
+    "HG01577": {
+        "Sample": "HG01577",
+        "Population": "PEL",
+        "Super_Population": "AMR",
+        "Sex": "Female"
+    },
+    "HG01578": {
+        "Sample": "HG01578",
+        "Population": "PEL",
+        "Super_Population": "AMR",
+        "Sex": "Male"
+    },
+    "HG01918": {
+        "Sample": "HG01918",
+        "Population": "PEL",
+        "Super_Population": "AMR",
+        "Sex": "Female"
+    },
+    "HG01923": {
+        "Sample": "HG01923",
+        "Population": "PEL",
+        "Super_Population": "AMR",
+        "Sex": "Female"
+    },
+    "HG01932": {
+        "Sample": "HG01932",
+        "Population": "PEL",
+        "Super_Population": "AMR",
+        "Sex": "Male"
+    },
+    "HG01933": {
+        "Sample": "HG01933",
+        "Population": "PEL",
+        "Super_Population": "AMR",
+        "Sex": "Male"
+    },
+    "HG01935": {
+        "Sample": "HG01935",
+        "Population": "PEL",
+        "Super_Population": "AMR",
+        "Sex": "Female"
+    },
+    "HG01939": {
+        "Sample": "HG01939",
+        "Population": "PEL",
+        "Super_Population": "AMR",
+        "Sex": "Male"
+    },
+    "HG01942": {
+        "Sample": "HG01942",
+        "Population": "PEL",
+        "Super_Population": "AMR",
+        "Sex": "Female"
+    },
+    "HG01945": {
+        "Sample": "HG01945",
+        "Population": "PEL",
+        "Super_Population": "AMR",
+        "Sex": "Female"
+    },
+    "HG01947": {
+        "Sample": "HG01947",
+        "Population": "PEL",
+        "Super_Population": "AMR",
+        "Sex": "Female"
+    },
+    "HG01948": {
+        "Sample": "HG01948",
+        "Population": "PEL",
+        "Super_Population": "AMR",
+        "Sex": "Male"
+    },
+    "HG01950": {
+        "Sample": "HG01950",
+        "Population": "PEL",
+        "Super_Population": "AMR",
+        "Sex": "Female"
+    },
+    "HG01953": {
+        "Sample": "HG01953",
+        "Population": "PEL",
+        "Super_Population": "AMR",
+        "Sex": "Male"
+    },
+    "HG01961": {
+        "Sample": "HG01961",
+        "Population": "PEL",
+        "Super_Population": "AMR",
+        "Sex": "Male"
+    },
+    "HG01967": {
+        "Sample": "HG01967",
+        "Population": "PEL",
+        "Super_Population": "AMR",
+        "Sex": "Male"
+    },
+    "HG01971": {
+        "Sample": "HG01971",
+        "Population": "PEL",
+        "Super_Population": "AMR",
+        "Sex": "Male"
+    },
+    "HG01977": {
+        "Sample": "HG01977",
+        "Population": "PEL",
+        "Super_Population": "AMR",
+        "Sex": "Female"
+    },
+    "HG01982": {
+        "Sample": "HG01982",
+        "Population": "PEL",
+        "Super_Population": "AMR",
+        "Sex": "Male"
+    },
+    "HG01991": {
+        "Sample": "HG01991",
+        "Population": "PEL",
+        "Super_Population": "AMR",
+        "Sex": "Male"
+    },
+    "HG01992": {
+        "Sample": "HG01992",
+        "Population": "PEL",
+        "Super_Population": "AMR",
+        "Sex": "Male"
+    },
+    "HG01997": {
+        "Sample": "HG01997",
+        "Population": "PEL",
+        "Super_Population": "AMR",
+        "Sex": "Female"
+    },
+    "HG02003": {
+        "Sample": "HG02003",
+        "Population": "PEL",
+        "Super_Population": "AMR",
+        "Sex": "Female"
+    },
+    "HG02006": {
+        "Sample": "HG02006",
+        "Population": "PEL",
+        "Super_Population": "AMR",
+        "Sex": "Female"
+    },
+    "HG02089": {
+        "Sample": "HG02089",
+        "Population": "PEL",
+        "Super_Population": "AMR",
+        "Sex": "Female"
+    },
+    "HG02102": {
+        "Sample": "HG02102",
+        "Population": "PEL",
+        "Super_Population": "AMR",
+        "Sex": "Female"
+    },
+    "HG02105": {
+        "Sample": "HG02105",
+        "Population": "PEL",
+        "Super_Population": "AMR",
+        "Sex": "Female"
+    },
+    "HG02146": {
+        "Sample": "HG02146",
+        "Population": "PEL",
+        "Super_Population": "AMR",
+        "Sex": "Female"
+    },
+    "HG02252": {
+        "Sample": "HG02252",
+        "Population": "PEL",
+        "Super_Population": "AMR",
+        "Sex": "Male"
+    },
+    "HG02253": {
+        "Sample": "HG02253",
+        "Population": "PEL",
+        "Super_Population": "AMR",
+        "Sex": "Female"
+    },
+    "HG02262": {
+        "Sample": "HG02262",
+        "Population": "PEL",
+        "Super_Population": "AMR",
+        "Sex": "Male"
+    },
+    "HG02265": {
+        "Sample": "HG02265",
+        "Population": "PEL",
+        "Super_Population": "AMR",
+        "Sex": "Male"
+    },
+    "HG02266": {
+        "Sample": "HG02266",
+        "Population": "PEL",
+        "Super_Population": "AMR",
+        "Sex": "Male"
+    },
+    "HG02271": {
+        "Sample": "HG02271",
+        "Population": "PEL",
+        "Super_Population": "AMR",
+        "Sex": "Female"
+    },
+    "HG02274": {
+        "Sample": "HG02274",
+        "Population": "PEL",
+        "Super_Population": "AMR",
+        "Sex": "Male"
+    },
+    "HG02275": {
+        "Sample": "HG02275",
+        "Population": "PEL",
+        "Super_Population": "AMR",
+        "Sex": "Male"
+    },
+    "HG02277": {
+        "Sample": "HG02277",
+        "Population": "PEL",
+        "Super_Population": "AMR",
+        "Sex": "Female"
+    },
+    "HG02285": {
+        "Sample": "HG02285",
+        "Population": "PEL",
+        "Super_Population": "AMR",
+        "Sex": "Male"
+    },
+    "HG02291": {
+        "Sample": "HG02291",
+        "Population": "PEL",
+        "Super_Population": "AMR",
+        "Sex": "Male"
+    },
+    "HG02292": {
+        "Sample": "HG02292",
+        "Population": "PEL",
+        "Super_Population": "AMR",
+        "Sex": "Male"
+    },
+    "HG02312": {
+        "Sample": "HG02312",
+        "Population": "PEL",
+        "Super_Population": "AMR",
+        "Sex": "Female"
+    },
+    "HG02345": {
+        "Sample": "HG02345",
+        "Population": "PEL",
+        "Super_Population": "AMR",
+        "Sex": "Female"
+    },
+    "NA19651": {
+        "Sample": "NA19651",
+        "Population": "MXL",
+        "Super_Population": "AMR",
+        "Sex": "Female"
+    },
+    "NA19652": {
+        "Sample": "NA19652",
+        "Population": "MXL",
+        "Super_Population": "AMR",
+        "Sex": "Female"
+    },
+    "NA19654": {
+        "Sample": "NA19654",
+        "Population": "MXL",
+        "Super_Population": "AMR",
+        "Sex": "Male"
+    },
+    "NA19655": {
+        "Sample": "NA19655",
+        "Population": "MXL",
+        "Super_Population": "AMR",
+        "Sex": "Female"
+    },
+    "NA19657": {
+        "Sample": "NA19657",
+        "Population": "MXL",
+        "Super_Population": "AMR",
+        "Sex": "Male"
+    },
+    "NA19658": {
+        "Sample": "NA19658",
+        "Population": "MXL",
+        "Super_Population": "AMR",
+        "Sex": "Female"
+    },
+    "NA19660": {
+        "Sample": "NA19660",
+        "Population": "MXL",
+        "Super_Population": "AMR",
+        "Sex": "Male"
+    },
+    "NA19661": {
+        "Sample": "NA19661",
+        "Population": "MXL",
+        "Super_Population": "AMR",
+        "Sex": "Female"
+    },
+    "NA19663": {
+        "Sample": "NA19663",
+        "Population": "MXL",
+        "Super_Population": "AMR",
+        "Sex": "Male"
+    },
+    "NA19664": {
+        "Sample": "NA19664",
+        "Population": "MXL",
+        "Super_Population": "AMR",
+        "Sex": "Female"
+    },
+    "NA19679": {
+        "Sample": "NA19679",
+        "Population": "MXL",
+        "Super_Population": "AMR",
+        "Sex": "Male"
+    },
+    "NA19717": {
+        "Sample": "NA19717",
+        "Population": "MXL",
+        "Super_Population": "AMR",
+        "Sex": "Male"
+    },
+    "NA19720": {
+        "Sample": "NA19720",
+        "Population": "MXL",
+        "Super_Population": "AMR",
+        "Sex": "Male"
+    },
+    "NA19723": {
+        "Sample": "NA19723",
+        "Population": "MXL",
+        "Super_Population": "AMR",
+        "Sex": "Male"
+    },
+    "NA19728": {
+        "Sample": "NA19728",
+        "Population": "MXL",
+        "Super_Population": "AMR",
+        "Sex": "Male"
+    },
+    "NA19729": {
+        "Sample": "NA19729",
+        "Population": "MXL",
+        "Super_Population": "AMR",
+        "Sex": "Female"
+    },
+    "NA19734": {
+        "Sample": "NA19734",
+        "Population": "MXL",
+        "Super_Population": "AMR",
+        "Sex": "Male"
+    },
+    "NA19735": {
+        "Sample": "NA19735",
+        "Population": "MXL",
+        "Super_Population": "AMR",
+        "Sex": "Female"
+    },
+    "NA19740": {
+        "Sample": "NA19740",
+        "Population": "MXL",
+        "Super_Population": "AMR",
+        "Sex": "Male"
+    },
+    "NA19747": {
+        "Sample": "NA19747",
+        "Population": "MXL",
+        "Super_Population": "AMR",
+        "Sex": "Female"
+    },
+    "NA19749": {
+        "Sample": "NA19749",
+        "Population": "MXL",
+        "Super_Population": "AMR",
+        "Sex": "Male"
+    },
+    "NA19750": {
+        "Sample": "NA19750",
+        "Population": "MXL",
+        "Super_Population": "AMR",
+        "Sex": "Female"
+    },
+    "NA19758": {
+        "Sample": "NA19758",
+        "Population": "MXL",
+        "Super_Population": "AMR",
+        "Sex": "Male"
+    },
+    "NA19759": {
+        "Sample": "NA19759",
+        "Population": "MXL",
+        "Super_Population": "AMR",
+        "Sex": "Female"
+    },
+    "NA19762": {
+        "Sample": "NA19762",
+        "Population": "MXL",
+        "Super_Population": "AMR",
+        "Sex": "Male"
+    },
+    "NA19770": {
+        "Sample": "NA19770",
+        "Population": "MXL",
+        "Super_Population": "AMR",
+        "Sex": "Male"
+    },
+    "NA19774": {
+        "Sample": "NA19774",
+        "Population": "MXL",
+        "Super_Population": "AMR",
+        "Sex": "Female"
+    },
+    "NA19782": {
+        "Sample": "NA19782",
+        "Population": "MXL",
+        "Super_Population": "AMR",
+        "Sex": "Male"
+    },
+    "NA19786": {
+        "Sample": "NA19786",
+        "Population": "MXL",
+        "Super_Population": "AMR",
+        "Sex": "Female"
+    },
+    "NA19789": {
+        "Sample": "NA19789",
+        "Population": "MXL",
+        "Super_Population": "AMR",
+        "Sex": "Male"
+    },
+    "HG00423": {
+        "Sample": "HG00423",
+        "Population": "CHS",
+        "Super_Population": "EAS",
+        "Sex": "Male"
+    },
+    "HG00438": {
+        "Sample": "HG00438",
+        "Population": "CHS",
+        "Super_Population": "EAS",
+        "Sex": "Female"
+    },
+    "HG00544": {
+        "Sample": "HG00544",
+        "Population": "CHS",
+        "Super_Population": "EAS",
+        "Sex": "Female"
+    },
+    "HG00558": {
+        "Sample": "HG00558",
+        "Population": "CHS",
+        "Super_Population": "EAS",
+        "Sex": "Female"
+    },
+    "HG00609": {
+        "Sample": "HG00609",
+        "Population": "CHS",
+        "Super_Population": "EAS",
+        "Sex": "Female"
+    },
+    "HG00621": {
+        "Sample": "HG00621",
+        "Population": "CHS",
+        "Super_Population": "EAS",
+        "Sex": "Male"
+    },
+    "HG00673": {
+        "Sample": "HG00673",
+        "Population": "CHS",
+        "Super_Population": "EAS",
+        "Sex": "Male"
+    },
+    "HG00706": {
+        "Sample": "HG00706",
+        "Population": "CHS",
+        "Super_Population": "EAS",
+        "Sex": "Male"
+    },
+    "HG02027": {
+        "Sample": "HG02027",
+        "Population": "KHV",
+        "Super_Population": "EAS",
+        "Sex": "Male"
+    },
+    "HG02056": {
+        "Sample": "HG02056",
+        "Population": "KHV",
+        "Super_Population": "EAS",
+        "Sex": "Male"
+    },
+    "HG02071": {
+        "Sample": "HG02071",
+        "Population": "KHV",
+        "Super_Population": "EAS",
+        "Sex": "Male"
+    },
+    "HG02074": {
+        "Sample": "HG02074",
+        "Population": "KHV",
+        "Super_Population": "EAS",
+        "Sex": "Male"
+    },
+    "HG02083": {
+        "Sample": "HG02083",
+        "Population": "KHV",
+        "Super_Population": "EAS",
+        "Sex": "Male"
+    },
+    "HG02132": {
+        "Sample": "HG02132",
+        "Population": "KHV",
+        "Super_Population": "EAS",
+        "Sex": "Male"
+    },
+    "HG02135": {
+        "Sample": "HG02135",
+        "Population": "KHV",
+        "Super_Population": "EAS",
+        "Sex": "Male"
+    },
+    "HG02523": {
+        "Sample": "HG02523",
+        "Population": "KHV",
+        "Super_Population": "EAS",
+        "Sex": "Male"
+    },
+    "HG00404": {
+        "Sample": "HG00404",
+        "Population": "CHS",
+        "Super_Population": "EAS",
+        "Sex": "Female"
+    },
+    "HG00407": {
+        "Sample": "HG00407",
+        "Population": "CHS",
+        "Super_Population": "EAS",
+        "Sex": "Female"
+    },
+    "HG00409": {
+        "Sample": "HG00409",
+        "Population": "CHS",
+        "Super_Population": "EAS",
+        "Sex": "Female"
+    },
+    "HG00410": {
+        "Sample": "HG00410",
+        "Population": "CHS",
+        "Super_Population": "EAS",
+        "Sex": "Male"
+    },
+    "HG00418": {
+        "Sample": "HG00418",
+        "Population": "CHS",
+        "Super_Population": "EAS",
+        "Sex": "Female"
+    },
+    "HG00419": {
+        "Sample": "HG00419",
+        "Population": "CHS",
+        "Super_Population": "EAS",
+        "Sex": "Male"
+    },
+    "HG00427": {
+        "Sample": "HG00427",
+        "Population": "CHS",
+        "Super_Population": "EAS",
+        "Sex": "Female"
+    },
+    "HG00436": {
+        "Sample": "HG00436",
+        "Population": "CHS",
+        "Super_Population": "EAS",
+        "Sex": "Male"
+    },
+    "HG00442": {
+        "Sample": "HG00442",
+        "Population": "CHS",
+        "Super_Population": "EAS",
+        "Sex": "Male"
+    },
+    "HG00443": {
+        "Sample": "HG00443",
+        "Population": "CHS",
+        "Super_Population": "EAS",
+        "Sex": "Male"
+    },
+    "HG00446": {
+        "Sample": "HG00446",
+        "Population": "CHS",
+        "Super_Population": "EAS",
+        "Sex": "Female"
+    },
+    "HG00449": {
+        "Sample": "HG00449",
+        "Population": "CHS",
+        "Super_Population": "EAS",
+        "Sex": "Female"
+    },
+    "HG00452": {
+        "Sample": "HG00452",
+        "Population": "CHS",
+        "Super_Population": "EAS",
+        "Sex": "Female"
+    },
+    "HG00464": {
+        "Sample": "HG00464",
+        "Population": "CHS",
+        "Super_Population": "EAS",
+        "Sex": "Female"
+    },
+    "HG00472": {
+        "Sample": "HG00472",
+        "Population": "CHS",
+        "Super_Population": "EAS",
+        "Sex": "Female"
+    },
+    "HG00473": {
+        "Sample": "HG00473",
+        "Population": "CHS",
+        "Super_Population": "EAS",
+        "Sex": "Male"
+    },
+    "HG00475": {
+        "Sample": "HG00475",
+        "Population": "CHS",
+        "Super_Population": "EAS",
+        "Sex": "Female"
+    },
+    "HG00479": {
+        "Sample": "HG00479",
+        "Population": "CHS",
+        "Super_Population": "EAS",
+        "Sex": "Male"
+    },
+    "HG00513": {
+        "Sample": "HG00513",
+        "Population": "CHS",
+        "Super_Population": "EAS",
+        "Sex": "Female"
+    },
+    "HG00525": {
+        "Sample": "HG00525",
+        "Population": "CHS",
+        "Super_Population": "EAS",
+        "Sex": "Female"
+    },
+    "HG00530": {
+        "Sample": "HG00530",
+        "Population": "CHS",
+        "Super_Population": "EAS",
+        "Sex": "Female"
+    },
+    "HG00537": {
+        "Sample": "HG00537",
+        "Population": "CHS",
+        "Super_Population": "EAS",
+        "Sex": "Male"
+    },
+    "HG00565": {
+        "Sample": "HG00565",
+        "Population": "CHS",
+        "Super_Population": "EAS",
+        "Sex": "Female"
+    },
+    "HG00566": {
+        "Sample": "HG00566",
+        "Population": "CHS",
+        "Super_Population": "EAS",
+        "Sex": "Male"
+    },
+    "HG00583": {
+        "Sample": "HG00583",
+        "Population": "CHS",
+        "Super_Population": "EAS",
+        "Sex": "Female"
+    },
+    "HG00589": {
+        "Sample": "HG00589",
+        "Population": "CHS",
+        "Super_Population": "EAS",
+        "Sex": "Male"
+    },
+    "HG00596": {
+        "Sample": "HG00596",
+        "Population": "CHS",
+        "Super_Population": "EAS",
+        "Sex": "Male"
+    },
+    "HG00599": {
+        "Sample": "HG00599",
+        "Population": "CHS",
+        "Super_Population": "EAS",
+        "Sex": "Female"
+    },
+    "HG00607": {
+        "Sample": "HG00607",
+        "Population": "CHS",
+        "Super_Population": "EAS",
+        "Sex": "Female"
+    },
+    "HG00608": {
+        "Sample": "HG00608",
+        "Population": "CHS",
+        "Super_Population": "EAS",
+        "Sex": "Male"
+    },
+    "HG00610": {
+        "Sample": "HG00610",
+        "Population": "CHS",
+        "Super_Population": "EAS",
+        "Sex": "Female"
+    },
+    "HG00619": {
+        "Sample": "HG00619",
+        "Population": "CHS",
+        "Super_Population": "EAS",
+        "Sex": "Male"
+    },
+    "HG00622": {
+        "Sample": "HG00622",
+        "Population": "CHS",
+        "Super_Population": "EAS",
+        "Sex": "Male"
+    },
+    "HG00626": {
+        "Sample": "HG00626",
+        "Population": "CHS",
+        "Super_Population": "EAS",
+        "Sex": "Male"
+    },
+    "HG00631": {
+        "Sample": "HG00631",
+        "Population": "CHS",
+        "Super_Population": "EAS",
+        "Sex": "Female"
+    },
+    "HG00632": {
+        "Sample": "HG00632",
+        "Population": "CHS",
+        "Super_Population": "EAS",
+        "Sex": "Male"
+    },
+    "HG00634": {
+        "Sample": "HG00634",
+        "Population": "CHS",
+        "Super_Population": "EAS",
+        "Sex": "Female"
+    },
+    "HG00650": {
+        "Sample": "HG00650",
+        "Population": "CHS",
+        "Super_Population": "EAS",
+        "Sex": "Male"
+    },
+    "HG00651": {
+        "Sample": "HG00651",
+        "Population": "CHS",
+        "Super_Population": "EAS",
+        "Sex": "Male"
+    },
+    "HG00657": {
+        "Sample": "HG00657",
+        "Population": "CHS",
+        "Super_Population": "EAS",
+        "Sex": "Female"
+    },
+    "HG00675": {
+        "Sample": "HG00675",
+        "Population": "CHS",
+        "Super_Population": "EAS",
+        "Sex": "Female"
+    },
+    "HG00684": {
+        "Sample": "HG00684",
+        "Population": "CHS",
+        "Super_Population": "EAS",
+        "Sex": "Female"
+    },
+    "HG00692": {
+        "Sample": "HG00692",
+        "Population": "CHS",
+        "Super_Population": "EAS",
+        "Sex": "Female"
+    },
+    "HG00702": {
+        "Sample": "HG00702",
+        "Population": "CHS",
+        "Super_Population": "EAS",
+        "Sex": "Male"
+    },
+    "HG00705": {
+        "Sample": "HG00705",
+        "Population": "CHS",
+        "Super_Population": "EAS",
+        "Sex": "Female"
+    },
+    "HG00717": {
+        "Sample": "HG00717",
+        "Population": "CHS",
+        "Super_Population": "EAS",
+        "Sex": "Female"
+    },
+    "HG00728": {
+        "Sample": "HG00728",
+        "Population": "CHS",
+        "Super_Population": "EAS",
+        "Sex": "Female"
+    },
+    "HG00759": {
+        "Sample": "HG00759",
+        "Population": "CDX",
+        "Super_Population": "EAS",
+        "Sex": "Male"
+    },
+    "HG00766": {
+        "Sample": "HG00766",
+        "Population": "CDX",
+        "Super_Population": "EAS",
+        "Sex": "Female"
+    },
+    "HG00844": {
+        "Sample": "HG00844",
+        "Population": "CDX",
+        "Super_Population": "EAS",
+        "Sex": "Female"
+    },
+    "HG00881": {
+        "Sample": "HG00881",
+        "Population": "CDX",
+        "Super_Population": "EAS",
+        "Sex": "Male"
+    },
+    "HG00982": {
+        "Sample": "HG00982",
+        "Population": "CDX",
+        "Super_Population": "EAS",
+        "Sex": "Male"
+    },
+    "HG01028": {
+        "Sample": "HG01028",
+        "Population": "CDX",
+        "Super_Population": "EAS",
+        "Sex": "Male"
+    },
+    "HG01046": {
+        "Sample": "HG01046",
+        "Population": "CDX",
+        "Super_Population": "EAS",
+        "Sex": "Male"
+    },
+    "HG01595": {
+        "Sample": "HG01595",
+        "Population": "KHV",
+        "Super_Population": "EAS",
+        "Sex": "Female"
+    },
+    "HG01596": {
+        "Sample": "HG01596",
+        "Population": "KHV",
+        "Super_Population": "EAS",
+        "Sex": "Female"
+    },
+    "HG01597": {
+        "Sample": "HG01597",
+        "Population": "KHV",
+        "Super_Population": "EAS",
+        "Sex": "Male"
+    },
+    "HG01598": {
+        "Sample": "HG01598",
+        "Population": "KHV",
+        "Super_Population": "EAS",
+        "Sex": "Female"
+    },
+    "HG01794": {
+        "Sample": "HG01794",
+        "Population": "CDX",
+        "Super_Population": "EAS",
+        "Sex": "Female"
+    },
+    "HG01796": {
+        "Sample": "HG01796",
+        "Population": "CDX",
+        "Super_Population": "EAS",
+        "Sex": "Female"
+    },
+    "HG01797": {
+        "Sample": "HG01797",
+        "Population": "CDX",
+        "Super_Population": "EAS",
+        "Sex": "Female"
+    },
+    "HG01798": {
+        "Sample": "HG01798",
+        "Population": "CDX",
+        "Super_Population": "EAS",
+        "Sex": "Female"
+    },
+    "HG01800": {
+        "Sample": "HG01800",
+        "Population": "CDX",
+        "Super_Population": "EAS",
+        "Sex": "Female"
+    },
+    "HG01801": {
+        "Sample": "HG01801",
+        "Population": "CDX",
+        "Super_Population": "EAS",
+        "Sex": "Female"
+    },
+    "HG01805": {
+        "Sample": "HG01805",
+        "Population": "CDX",
+        "Super_Population": "EAS",
+        "Sex": "Female"
+    },
+    "HG01806": {
+        "Sample": "HG01806",
+        "Population": "CDX",
+        "Super_Population": "EAS",
+        "Sex": "Female"
+    },
+    "HG01807": {
+        "Sample": "HG01807",
+        "Population": "CDX",
+        "Super_Population": "EAS",
+        "Sex": "Female"
+    },
+    "HG01809": {
+        "Sample": "HG01809",
+        "Population": "CDX",
+        "Super_Population": "EAS",
+        "Sex": "Female"
+    },
+    "HG01812": {
+        "Sample": "HG01812",
+        "Population": "CDX",
+        "Super_Population": "EAS",
+        "Sex": "Female"
+    },
+    "HG01813": {
+        "Sample": "HG01813",
+        "Population": "CDX",
+        "Super_Population": "EAS",
+        "Sex": "Female"
+    },
+    "HG01815": {
+        "Sample": "HG01815",
+        "Population": "CDX",
+        "Super_Population": "EAS",
+        "Sex": "Female"
+    },
+    "HG01817": {
+        "Sample": "HG01817",
+        "Population": "CDX",
+        "Super_Population": "EAS",
+        "Sex": "Female"
+    },
+    "HG01840": {
+        "Sample": "HG01840",
+        "Population": "KHV",
+        "Super_Population": "EAS",
+        "Sex": "Female"
+    },
+    "HG01846": {
+        "Sample": "HG01846",
+        "Population": "KHV",
+        "Super_Population": "EAS",
+        "Sex": "Male"
+    },
+    "HG01851": {
+        "Sample": "HG01851",
+        "Population": "KHV",
+        "Super_Population": "EAS",
+        "Sex": "Male"
+    },
+    "HG01853": {
+        "Sample": "HG01853",
+        "Population": "KHV",
+        "Super_Population": "EAS",
+        "Sex": "Female"
+    },
+    "HG01859": {
+        "Sample": "HG01859",
+        "Population": "KHV",
+        "Super_Population": "EAS",
+        "Sex": "Female"
+    },
+    "HG01862": {
+        "Sample": "HG01862",
+        "Population": "KHV",
+        "Super_Population": "EAS",
+        "Sex": "Female"
+    },
+    "HG01863": {
+        "Sample": "HG01863",
+        "Population": "KHV",
+        "Super_Population": "EAS",
+        "Sex": "Female"
+    },
+    "HG01865": {
+        "Sample": "HG01865",
+        "Population": "KHV",
+        "Super_Population": "EAS",
+        "Sex": "Female"
+    },
+    "HG01866": {
+        "Sample": "HG01866",
+        "Population": "KHV",
+        "Super_Population": "EAS",
+        "Sex": "Male"
+    },
+    "HG01870": {
+        "Sample": "HG01870",
+        "Population": "KHV",
+        "Super_Population": "EAS",
+        "Sex": "Male"
+    },
+    "HG01871": {
+        "Sample": "HG01871",
+        "Population": "KHV",
+        "Super_Population": "EAS",
+        "Sex": "Female"
+    },
+    "HG01872": {
+        "Sample": "HG01872",
+        "Population": "KHV",
+        "Super_Population": "EAS",
+        "Sex": "Female"
+    },
+    "HG01873": {
+        "Sample": "HG01873",
+        "Population": "KHV",
+        "Super_Population": "EAS",
+        "Sex": "Male"
+    },
+    "HG02016": {
+        "Sample": "HG02016",
+        "Population": "KHV",
+        "Super_Population": "EAS",
+        "Sex": "Male"
+    },
+    "HG02017": {
+        "Sample": "HG02017",
+        "Population": "KHV",
+        "Super_Population": "EAS",
+        "Sex": "Female"
+    },
+    "HG02020": {
+        "Sample": "HG02020",
+        "Population": "KHV",
+        "Super_Population": "EAS",
+        "Sex": "Male"
+    },
+    "HG02031": {
+        "Sample": "HG02031",
+        "Population": "KHV",
+        "Super_Population": "EAS",
+        "Sex": "Male"
+    },
+    "HG02040": {
+        "Sample": "HG02040",
+        "Population": "KHV",
+        "Super_Population": "EAS",
+        "Sex": "Female"
+    },
+    "HG02048": {
+        "Sample": "HG02048",
+        "Population": "KHV",
+        "Super_Population": "EAS",
+        "Sex": "Male"
+    },
+    "HG02058": {
+        "Sample": "HG02058",
+        "Population": "KHV",
+        "Super_Population": "EAS",
+        "Sex": "Female"
+    },
+    "HG02060": {
+        "Sample": "HG02060",
+        "Population": "KHV",
+        "Super_Population": "EAS",
+        "Sex": "Male"
+    },
+    "HG02064": {
+        "Sample": "HG02064",
+        "Population": "KHV",
+        "Super_Population": "EAS",
+        "Sex": "Female"
+    },
+    "HG02067": {
+        "Sample": "HG02067",
+        "Population": "KHV",
+        "Super_Population": "EAS",
+        "Sex": "Male"
+    },
+    "HG02069": {
+        "Sample": "HG02069",
+        "Population": "KHV",
+        "Super_Population": "EAS",
+        "Sex": "Male"
+    },
+    "HG02072": {
+        "Sample": "HG02072",
+        "Population": "KHV",
+        "Super_Population": "EAS",
+        "Sex": "Female"
+    },
+    "HG02079": {
+        "Sample": "HG02079",
+        "Population": "KHV",
+        "Super_Population": "EAS",
+        "Sex": "Female"
+    },
+    "HG02081": {
+        "Sample": "HG02081",
+        "Population": "KHV",
+        "Super_Population": "EAS",
+        "Sex": "Male"
+    },
+    "HG02082": {
+        "Sample": "HG02082",
+        "Population": "KHV",
+        "Super_Population": "EAS",
+        "Sex": "Female"
+    },
+    "HG02087": {
+        "Sample": "HG02087",
+        "Population": "KHV",
+        "Super_Population": "EAS",
+        "Sex": "Male"
+    },
+    "HG02116": {
+        "Sample": "HG02116",
+        "Population": "KHV",
+        "Super_Population": "EAS",
+        "Sex": "Female"
+    },
+    "HG02121": {
+        "Sample": "HG02121",
+        "Population": "KHV",
+        "Super_Population": "EAS",
+        "Sex": "Male"
+    },
+    "HG02128": {
+        "Sample": "HG02128",
+        "Population": "KHV",
+        "Super_Population": "EAS",
+        "Sex": "Female"
+    },
+    "HG02130": {
+        "Sample": "HG02130",
+        "Population": "KHV",
+        "Super_Population": "EAS",
+        "Sex": "Male"
+    },
+    "HG02133": {
+        "Sample": "HG02133",
+        "Population": "KHV",
+        "Super_Population": "EAS",
+        "Sex": "Female"
+    },
+    "HG02136": {
+        "Sample": "HG02136",
+        "Population": "KHV",
+        "Super_Population": "EAS",
+        "Sex": "Female"
+    },
+    "HG02137": {
+        "Sample": "HG02137",
+        "Population": "KHV",
+        "Super_Population": "EAS",
+        "Sex": "Female"
+    },
+    "HG02138": {
+        "Sample": "HG02138",
+        "Population": "KHV",
+        "Super_Population": "EAS",
+        "Sex": "Male"
+    },
+    "HG02139": {
+        "Sample": "HG02139",
+        "Population": "KHV",
+        "Super_Population": "EAS",
+        "Sex": "Male"
+    },
+    "HG02152": {
+        "Sample": "HG02152",
+        "Population": "CDX",
+        "Super_Population": "EAS",
+        "Sex": "Female"
+    },
+    "HG02153": {
+        "Sample": "HG02153",
+        "Population": "CDX",
+        "Super_Population": "EAS",
+        "Sex": "Female"
+    },
+    "HG02154": {
+        "Sample": "HG02154",
+        "Population": "CDX",
+        "Super_Population": "EAS",
+        "Sex": "Female"
+    },
+    "HG02155": {
+        "Sample": "HG02155",
+        "Population": "CDX",
+        "Super_Population": "EAS",
+        "Sex": "Female"
+    },
+    "HG02156": {
+        "Sample": "HG02156",
+        "Population": "CDX",
+        "Super_Population": "EAS",
+        "Sex": "Female"
+    },
+    "HG02164": {
+        "Sample": "HG02164",
+        "Population": "CDX",
+        "Super_Population": "EAS",
+        "Sex": "Female"
+    },
+    "HG02165": {
+        "Sample": "HG02165",
+        "Population": "CDX",
+        "Super_Population": "EAS",
+        "Sex": "Female"
+    },
+    "HG02178": {
+        "Sample": "HG02178",
+        "Population": "CDX",
+        "Super_Population": "EAS",
+        "Sex": "Female"
+    },
+    "HG02180": {
+        "Sample": "HG02180",
+        "Population": "CDX",
+        "Super_Population": "EAS",
+        "Sex": "Female"
+    },
+    "HG02182": {
+        "Sample": "HG02182",
+        "Population": "CDX",
+        "Super_Population": "EAS",
+        "Sex": "Female"
+    },
+    "HG02184": {
+        "Sample": "HG02184",
+        "Population": "CDX",
+        "Super_Population": "EAS",
+        "Sex": "Female"
+    },
+    "HG02185": {
+        "Sample": "HG02185",
+        "Population": "CDX",
+        "Super_Population": "EAS",
+        "Sex": "Female"
+    },
+    "HG02250": {
+        "Sample": "HG02250",
+        "Population": "CDX",
+        "Super_Population": "EAS",
+        "Sex": "Female"
+    },
+    "HG02364": {
+        "Sample": "HG02364",
+        "Population": "CDX",
+        "Super_Population": "EAS",
+        "Sex": "Male"
+    },
+    "HG02367": {
+        "Sample": "HG02367",
+        "Population": "CDX",
+        "Super_Population": "EAS",
+        "Sex": "Male"
+    },
+    "HG02373": {
+        "Sample": "HG02373",
+        "Population": "CDX",
+        "Super_Population": "EAS",
+        "Sex": "Male"
+    },
+    "HG02382": {
+        "Sample": "HG02382",
+        "Population": "CDX",
+        "Super_Population": "EAS",
+        "Sex": "Male"
+    },
+    "HG02384": {
+        "Sample": "HG02384",
+        "Population": "CDX",
+        "Super_Population": "EAS",
+        "Sex": "Male"
+    },
+    "HG02389": {
+        "Sample": "HG02389",
+        "Population": "CDX",
+        "Super_Population": "EAS",
+        "Sex": "Male"
+    },
+    "HG02390": {
+        "Sample": "HG02390",
+        "Population": "CDX",
+        "Super_Population": "EAS",
+        "Sex": "Male"
+    },
+    "HG02396": {
+        "Sample": "HG02396",
+        "Population": "CDX",
+        "Super_Population": "EAS",
+        "Sex": "Male"
+    },
+    "HG02402": {
+        "Sample": "HG02402",
+        "Population": "CDX",
+        "Super_Population": "EAS",
+        "Sex": "Male"
+    },
+    "HG02409": {
+        "Sample": "HG02409",
+        "Population": "CDX",
+        "Super_Population": "EAS",
+        "Sex": "Male"
+    },
+    "HG02410": {
+        "Sample": "HG02410",
+        "Population": "CDX",
+        "Super_Population": "EAS",
+        "Sex": "Male"
+    },
+    "HG02521": {
+        "Sample": "HG02521",
+        "Population": "KHV",
+        "Super_Population": "EAS",
+        "Sex": "Male"
+    },
+    "HG02522": {
+        "Sample": "HG02522",
+        "Population": "KHV",
+        "Super_Population": "EAS",
+        "Sex": "Male"
+    },
+    "HG02524": {
+        "Sample": "HG02524",
+        "Population": "KHV",
+        "Super_Population": "EAS",
+        "Sex": "Female"
+    },
+    "NA18525": {
+        "Sample": "NA18525",
+        "Population": "CHB",
+        "Super_Population": "EAS",
+        "Sex": "Male"
+    },
+    "NA18526": {
+        "Sample": "NA18526",
+        "Population": "CHB",
+        "Super_Population": "EAS",
+        "Sex": "Female"
+    },
+    "NA18528": {
+        "Sample": "NA18528",
+        "Population": "CHB",
+        "Super_Population": "EAS",
+        "Sex": "Female"
+    },
+    "NA18530": {
+        "Sample": "NA18530",
+        "Population": "CHB",
+        "Super_Population": "EAS",
+        "Sex": "Female"
+    },
+    "NA18532": {
+        "Sample": "NA18532",
+        "Population": "CHB",
+        "Super_Population": "EAS",
+        "Sex": "Male"
+    },
+    "NA18537": {
+        "Sample": "NA18537",
+        "Population": "CHB",
+        "Super_Population": "EAS",
+        "Sex": "Female"
+    },
+    "NA18539": {
+        "Sample": "NA18539",
+        "Population": "CHB",
+        "Super_Population": "EAS",
+        "Sex": "Female"
+    },
+    "NA18544": {
+        "Sample": "NA18544",
+        "Population": "CHB",
+        "Super_Population": "EAS",
+        "Sex": "Female"
+    },
+    "NA18546": {
+        "Sample": "NA18546",
+        "Population": "CHB",
+        "Super_Population": "EAS",
+        "Sex": "Male"
+    },
+    "NA18552": {
+        "Sample": "NA18552",
+        "Population": "CHB",
+        "Super_Population": "EAS",
+        "Sex": "Male"
+    },
+    "NA18553": {
+        "Sample": "NA18553",
+        "Population": "CHB",
+        "Super_Population": "EAS",
+        "Sex": "Female"
+    },
+    "NA18555": {
+        "Sample": "NA18555",
+        "Population": "CHB",
+        "Super_Population": "EAS",
+        "Sex": "Female"
+    },
+    "NA18565": {
+        "Sample": "NA18565",
+        "Population": "CHB",
+        "Super_Population": "EAS",
+        "Sex": "Female"
+    },
+    "NA18566": {
+        "Sample": "NA18566",
+        "Population": "CHB",
+        "Super_Population": "EAS",
+        "Sex": "Female"
+    },
+    "NA18567": {
+        "Sample": "NA18567",
+        "Population": "CHB",
+        "Super_Population": "EAS",
+        "Sex": "Female"
+    },
+    "NA18570": {
+        "Sample": "NA18570",
+        "Population": "CHB",
+        "Super_Population": "EAS",
+        "Sex": "Female"
+    },
+    "NA18571": {
+        "Sample": "NA18571",
+        "Population": "CHB",
+        "Super_Population": "EAS",
+        "Sex": "Female"
+    },
+    "NA18577": {
+        "Sample": "NA18577",
+        "Population": "CHB",
+        "Super_Population": "EAS",
+        "Sex": "Female"
+    },
+    "NA18579": {
+        "Sample": "NA18579",
+        "Population": "CHB",
+        "Super_Population": "EAS",
+        "Sex": "Female"
+    },
+    "NA18591": {
+        "Sample": "NA18591",
+        "Population": "CHB",
+        "Super_Population": "EAS",
+        "Sex": "Female"
+    },
+    "NA18592": {
+        "Sample": "NA18592",
+        "Population": "CHB",
+        "Super_Population": "EAS",
+        "Sex": "Female"
+    },
+    "NA18599": {
+        "Sample": "NA18599",
+        "Population": "CHB",
+        "Super_Population": "EAS",
+        "Sex": "Female"
+    },
+    "NA18603": {
+        "Sample": "NA18603",
+        "Population": "CHB",
+        "Super_Population": "EAS",
+        "Sex": "Female"
+    },
+    "NA18605": {
+        "Sample": "NA18605",
+        "Population": "CHB",
+        "Super_Population": "EAS",
+        "Sex": "Male"
+    },
+    "NA18612": {
+        "Sample": "NA18612",
+        "Population": "CHB",
+        "Super_Population": "EAS",
+        "Sex": "Male"
+    },
+    "NA18616": {
+        "Sample": "NA18616",
+        "Population": "CHB",
+        "Super_Population": "EAS",
+        "Sex": "Male"
+    },
+    "NA18621": {
+        "Sample": "NA18621",
+        "Population": "CHB",
+        "Super_Population": "EAS",
+        "Sex": "Female"
+    },
+    "NA18625": {
+        "Sample": "NA18625",
+        "Population": "CHB",
+        "Super_Population": "EAS",
+        "Sex": "Male"
+    },
+    "NA18632": {
+        "Sample": "NA18632",
+        "Population": "CHB",
+        "Super_Population": "EAS",
+        "Sex": "Female"
+    },
+    "NA18637": {
+        "Sample": "NA18637",
+        "Population": "CHB",
+        "Super_Population": "EAS",
+        "Sex": "Male"
+    },
+    "NA18639": {
+        "Sample": "NA18639",
+        "Population": "CHB",
+        "Super_Population": "EAS",
+        "Sex": "Male"
+    },
+    "NA18642": {
+        "Sample": "NA18642",
+        "Population": "CHB",
+        "Super_Population": "EAS",
+        "Sex": "Male"
+    },
+    "NA18747": {
+        "Sample": "NA18747",
+        "Population": "CHB",
+        "Super_Population": "EAS",
+        "Sex": "Female"
+    },
+    "NA18940": {
+        "Sample": "NA18940",
+        "Population": "JPT",
+        "Super_Population": "EAS",
+        "Sex": "Male"
+    },
+    "NA18941": {
+        "Sample": "NA18941",
+        "Population": "JPT",
+        "Super_Population": "EAS",
+        "Sex": "Male"
+    },
+    "NA18944": {
+        "Sample": "NA18944",
+        "Population": "JPT",
+        "Super_Population": "EAS",
+        "Sex": "Female"
+    },
+    "NA18946": {
+        "Sample": "NA18946",
+        "Population": "JPT",
+        "Super_Population": "EAS",
+        "Sex": "Male"
+    },
+    "NA18947": {
+        "Sample": "NA18947",
+        "Population": "JPT",
+        "Super_Population": "EAS",
+        "Sex": "Female"
+    },
+    "NA18953": {
+        "Sample": "NA18953",
+        "Population": "JPT",
+        "Super_Population": "EAS",
+        "Sex": "Female"
+    },
+    "NA18956": {
+        "Sample": "NA18956",
+        "Population": "JPT",
+        "Super_Population": "EAS",
+        "Sex": "Male"
+    },
+    "NA18960": {
+        "Sample": "NA18960",
+        "Population": "JPT",
+        "Super_Population": "EAS",
+        "Sex": "Female"
+    },
+    "NA18965": {
+        "Sample": "NA18965",
+        "Population": "JPT",
+        "Super_Population": "EAS",
+        "Sex": "Male"
+    },
+    "NA18968": {
+        "Sample": "NA18968",
+        "Population": "JPT",
+        "Super_Population": "EAS",
+        "Sex": "Male"
+    },
+    "NA18969": {
+        "Sample": "NA18969",
+        "Population": "JPT",
+        "Super_Population": "EAS",
+        "Sex": "Female"
+    },
+    "NA18971": {
+        "Sample": "NA18971",
+        "Population": "JPT",
+        "Super_Population": "EAS",
+        "Sex": "Female"
+    },
+    "NA18972": {
+        "Sample": "NA18972",
+        "Population": "JPT",
+        "Super_Population": "EAS",
+        "Sex": "Male"
+    },
+    "NA18974": {
+        "Sample": "NA18974",
+        "Population": "JPT",
+        "Super_Population": "EAS",
+        "Sex": "Female"
+    },
+    "NA18977": {
+        "Sample": "NA18977",
+        "Population": "JPT",
+        "Super_Population": "EAS",
+        "Sex": "Male"
+    },
+    "NA18980": {
+        "Sample": "NA18980",
+        "Population": "JPT",
+        "Super_Population": "EAS",
+        "Sex": "Male"
+    },
+    "NA18981": {
+        "Sample": "NA18981",
+        "Population": "JPT",
+        "Super_Population": "EAS",
+        "Sex": "Female"
+    },
+    "NA18983": {
+        "Sample": "NA18983",
+        "Population": "JPT",
+        "Super_Population": "EAS",
+        "Sex": "Female"
+    },
+    "NA18988": {
+        "Sample": "NA18988",
+        "Population": "JPT",
+        "Super_Population": "EAS",
+        "Sex": "Male"
+    },
+    "NA18989": {
+        "Sample": "NA18989",
+        "Population": "JPT",
+        "Super_Population": "EAS",
+        "Sex": "Male"
+    },
+    "NA19001": {
+        "Sample": "NA19001",
+        "Population": "JPT",
+        "Super_Population": "EAS",
+        "Sex": "Male"
+    },
+    "NA19003": {
+        "Sample": "NA19003",
+        "Population": "JPT",
+        "Super_Population": "EAS",
+        "Sex": "Female"
+    },
+    "NA19011": {
+        "Sample": "NA19011",
+        "Population": "JPT",
+        "Super_Population": "EAS",
+        "Sex": "Female"
+    },
+    "NA19012": {
+        "Sample": "NA19012",
+        "Population": "JPT",
+        "Super_Population": "EAS",
+        "Sex": "Female"
+    },
+    "NA19055": {
+        "Sample": "NA19055",
+        "Population": "JPT",
+        "Super_Population": "EAS",
+        "Sex": "Male"
+    },
+    "NA19059": {
+        "Sample": "NA19059",
+        "Population": "JPT",
+        "Super_Population": "EAS",
+        "Sex": "Male"
+    },
+    "NA19068": {
+        "Sample": "NA19068",
+        "Population": "JPT",
+        "Super_Population": "EAS",
+        "Sex": "Female"
+    },
+    "NA19080": {
+        "Sample": "NA19080",
+        "Population": "JPT",
+        "Super_Population": "EAS",
+        "Sex": "Male"
+    },
+    "NA19086": {
+        "Sample": "NA19086",
+        "Population": "JPT",
+        "Super_Population": "EAS",
+        "Sex": "Female"
+    },
+    "NA07014": {
+        "Sample": "NA07014",
+        "Population": "CEU",
+        "Super_Population": "EUR",
+        "Sex": "Male"
+    },
+    "NA07019": {
+        "Sample": "NA07019",
+        "Population": "CEU",
+        "Super_Population": "EUR",
+        "Sex": "Female"
+    },
+    "NA07348": {
+        "Sample": "NA07348",
+        "Population": "CEU",
+        "Super_Population": "EUR",
+        "Sex": "Female"
+    },
+    "NA10835": {
+        "Sample": "NA10835",
+        "Population": "CEU",
+        "Super_Population": "EUR",
+        "Sex": "Male"
+    },
+    "NA10839": {
+        "Sample": "NA10839",
+        "Population": "CEU",
+        "Super_Population": "EUR",
+        "Sex": "Female"
+    },
+    "NA10842": {
+        "Sample": "NA10842",
+        "Population": "CEU",
+        "Super_Population": "EUR",
+        "Sex": "Male"
+    },
+    "NA10843": {
+        "Sample": "NA10843",
+        "Population": "CEU",
+        "Super_Population": "EUR",
+        "Sex": "Female"
+    },
+    "NA10852": {
+        "Sample": "NA10852",
+        "Population": "CEU",
+        "Super_Population": "EUR",
+        "Sex": "Female"
+    },
+    "NA10856": {
+        "Sample": "NA10856",
+        "Population": "CEU",
+        "Super_Population": "EUR",
+        "Sex": "Male"
+    },
+    "NA10857": {
+        "Sample": "NA10857",
+        "Population": "CEU",
+        "Super_Population": "EUR",
+        "Sex": "Male"
+    },
+    "NA10859": {
+        "Sample": "NA10859",
+        "Population": "CEU",
+        "Super_Population": "EUR",
+        "Sex": "Female"
+    },
+    "NA10861": {
+        "Sample": "NA10861",
+        "Population": "CEU",
+        "Super_Population": "EUR",
+        "Sex": "Female"
+    },
+    "NA12335": {
+        "Sample": "NA12335",
+        "Population": "CEU",
+        "Super_Population": "EUR",
+        "Sex": "Male"
+    },
+    "NA12336": {
+        "Sample": "NA12336",
+        "Population": "CEU",
+        "Super_Population": "EUR",
+        "Sex": "Female"
+    },
+    "NA12376": {
+        "Sample": "NA12376",
+        "Population": "CEU",
+        "Super_Population": "EUR",
+        "Sex": "Female"
+    },
+    "NA12386": {
+        "Sample": "NA12386",
+        "Population": "CEU",
+        "Super_Population": "EUR",
+        "Sex": "Female"
+    },
+    "NA12766": {
+        "Sample": "NA12766",
+        "Population": "CEU",
+        "Super_Population": "EUR",
+        "Sex": "Male"
+    },
+    "NA12801": {
+        "Sample": "NA12801",
+        "Population": "CEU",
+        "Super_Population": "EUR",
+        "Sex": "Male"
+    },
+    "NA12802": {
+        "Sample": "NA12802",
+        "Population": "CEU",
+        "Super_Population": "EUR",
+        "Sex": "Female"
+    },
+    "HG00096": {
+        "Sample": "HG00096",
+        "Population": "GBR",
+        "Super_Population": "EUR",
+        "Sex": "Male"
+    },
+    "HG00099": {
+        "Sample": "HG00099",
+        "Population": "GBR",
+        "Super_Population": "EUR",
+        "Sex": "Male"
+    },
+    "HG00100": {
+        "Sample": "HG00100",
+        "Population": "GBR",
+        "Super_Population": "EUR",
+        "Sex": "Female"
+    },
+    "HG00101": {
+        "Sample": "HG00101",
+        "Population": "GBR",
+        "Super_Population": "EUR",
+        "Sex": "Female"
+    },
+    "HG00103": {
+        "Sample": "HG00103",
+        "Population": "GBR",
+        "Super_Population": "EUR",
+        "Sex": "Male"
+    },
+    "HG00105": {
+        "Sample": "HG00105",
+        "Population": "GBR",
+        "Super_Population": "EUR",
+        "Sex": "Male"
+    },
+    "HG00106": {
+        "Sample": "HG00106",
+        "Population": "GBR",
+        "Super_Population": "EUR",
+        "Sex": "Male"
+    },
+    "HG00107": {
+        "Sample": "HG00107",
+        "Population": "GBR",
+        "Super_Population": "EUR",
+        "Sex": "Female"
+    },
+    "HG00110": {
+        "Sample": "HG00110",
+        "Population": "GBR",
+        "Super_Population": "EUR",
+        "Sex": "Male"
+    },
+    "HG00111": {
+        "Sample": "HG00111",
+        "Population": "GBR",
+        "Super_Population": "EUR",
+        "Sex": "Female"
+    },
+    "HG00114": {
+        "Sample": "HG00114",
+        "Population": "GBR",
+        "Super_Population": "EUR",
+        "Sex": "Female"
+    },
+    "HG00117": {
+        "Sample": "HG00117",
+        "Population": "GBR",
+        "Super_Population": "EUR",
+        "Sex": "Male"
+    },
+    "HG00120": {
+        "Sample": "HG00120",
+        "Population": "GBR",
+        "Super_Population": "EUR",
+        "Sex": "Male"
+    },
+    "HG00121": {
+        "Sample": "HG00121",
+        "Population": "GBR",
+        "Super_Population": "EUR",
+        "Sex": "Female"
+    },
+    "HG00123": {
+        "Sample": "HG00123",
+        "Population": "GBR",
+        "Super_Population": "EUR",
+        "Sex": "Female"
+    },
+    "HG00125": {
+        "Sample": "HG00125",
+        "Population": "GBR",
+        "Super_Population": "EUR",
+        "Sex": "Female"
+    },
+    "HG00127": {
+        "Sample": "HG00127",
+        "Population": "GBR",
+        "Super_Population": "EUR",
+        "Sex": "Female"
+    },
+    "HG00129": {
+        "Sample": "HG00129",
+        "Population": "GBR",
+        "Super_Population": "EUR",
+        "Sex": "Female"
+    },
+    "HG00130": {
+        "Sample": "HG00130",
+        "Population": "GBR",
+        "Super_Population": "EUR",
+        "Sex": "Male"
+    },
+    "HG00131": {
+        "Sample": "HG00131",
+        "Population": "GBR",
+        "Super_Population": "EUR",
+        "Sex": "Female"
+    },
+    "HG00133": {
+        "Sample": "HG00133",
+        "Population": "GBR",
+        "Super_Population": "EUR",
+        "Sex": "Male"
+    },
+    "HG00136": {
+        "Sample": "HG00136",
+        "Population": "GBR",
+        "Super_Population": "EUR",
+        "Sex": "Female"
+    },
+    "HG00137": {
+        "Sample": "HG00137",
+        "Population": "GBR",
+        "Super_Population": "EUR",
+        "Sex": "Male"
+    },
+    "HG00139": {
+        "Sample": "HG00139",
+        "Population": "GBR",
+        "Super_Population": "EUR",
+        "Sex": "Female"
+    },
+    "HG00141": {
+        "Sample": "HG00141",
+        "Population": "GBR",
+        "Super_Population": "EUR",
+        "Sex": "Male"
+    },
+    "HG00146": {
+        "Sample": "HG00146",
+        "Population": "GBR",
+        "Super_Population": "EUR",
+        "Sex": "Male"
+    },
+    "HG00148": {
+        "Sample": "HG00148",
+        "Population": "GBR",
+        "Super_Population": "EUR",
+        "Sex": "Female"
+    },
+    "HG00149": {
+        "Sample": "HG00149",
+        "Population": "GBR",
+        "Super_Population": "EUR",
+        "Sex": "Male"
+    },
+    "HG00151": {
+        "Sample": "HG00151",
+        "Population": "GBR",
+        "Super_Population": "EUR",
+        "Sex": "Male"
+    },
+    "HG00157": {
+        "Sample": "HG00157",
+        "Population": "GBR",
+        "Super_Population": "EUR",
+        "Sex": "Male"
+    },
+    "HG00158": {
+        "Sample": "HG00158",
+        "Population": "GBR",
+        "Super_Population": "EUR",
+        "Sex": "Male"
+    },
+    "HG00159": {
+        "Sample": "HG00159",
+        "Population": "GBR",
+        "Super_Population": "EUR",
+        "Sex": "Female"
+    },
+    "HG00171": {
+        "Sample": "HG00171",
+        "Population": "FIN",
+        "Super_Population": "EUR",
+        "Sex": "Male"
+    },
+    "HG00173": {
+        "Sample": "HG00173",
+        "Population": "FIN",
+        "Super_Population": "EUR",
+        "Sex": "Female"
+    },
+    "HG00188": {
+        "Sample": "HG00188",
+        "Population": "FIN",
+        "Super_Population": "EUR",
+        "Sex": "Female"
+    },
+    "HG00190": {
+        "Sample": "HG00190",
+        "Population": "FIN",
+        "Super_Population": "EUR",
+        "Sex": "Male"
+    },
+    "HG00235": {
+        "Sample": "HG00235",
+        "Population": "GBR",
+        "Super_Population": "EUR",
+        "Sex": "Male"
+    },
+    "HG00242": {
+        "Sample": "HG00242",
+        "Population": "GBR",
+        "Super_Population": "EUR",
+        "Sex": "Female"
+    },
+    "HG00243": {
+        "Sample": "HG00243",
+        "Population": "GBR",
+        "Super_Population": "EUR",
+        "Sex": "Male"
+    },
+    "HG00252": {
+        "Sample": "HG00252",
+        "Population": "GBR",
+        "Super_Population": "EUR",
+        "Sex": "Male"
+    },
+    "HG00254": {
+        "Sample": "HG00254",
+        "Population": "GBR",
+        "Super_Population": "EUR",
+        "Sex": "Male"
+    },
+    "HG00255": {
+        "Sample": "HG00255",
+        "Population": "GBR",
+        "Super_Population": "EUR",
+        "Sex": "Female"
+    },
+    "HG00258": {
+        "Sample": "HG00258",
+        "Population": "GBR",
+        "Super_Population": "EUR",
+        "Sex": "Female"
+    },
+    "HG00261": {
+        "Sample": "HG00261",
+        "Population": "GBR",
+        "Super_Population": "EUR",
+        "Sex": "Female"
+    },
+    "HG00268": {
+        "Sample": "HG00268",
+        "Population": "FIN",
+        "Super_Population": "EUR",
+        "Sex": "Female"
+    },
+    "HG00269": {
+        "Sample": "HG00269",
+        "Population": "FIN",
+        "Super_Population": "EUR",
+        "Sex": "Female"
+    },
+    "HG00271": {
+        "Sample": "HG00271",
+        "Population": "FIN",
+        "Super_Population": "EUR",
+        "Sex": "Female"
+    },
+    "HG00273": {
+        "Sample": "HG00273",
+        "Population": "FIN",
+        "Super_Population": "EUR",
+        "Sex": "Male"
+    },
+    "HG00274": {
+        "Sample": "HG00274",
+        "Population": "FIN",
+        "Super_Population": "EUR",
+        "Sex": "Male"
+    },
+    "HG00278": {
+        "Sample": "HG00278",
+        "Population": "FIN",
+        "Super_Population": "EUR",
+        "Sex": "Female"
+    },
+    "HG00280": {
+        "Sample": "HG00280",
+        "Population": "FIN",
+        "Super_Population": "EUR",
+        "Sex": "Male"
+    },
+    "HG00282": {
+        "Sample": "HG00282",
+        "Population": "FIN",
+        "Super_Population": "EUR",
+        "Sex": "Male"
+    },
+    "HG00284": {
+        "Sample": "HG00284",
+        "Population": "FIN",
+        "Super_Population": "EUR",
+        "Sex": "Female"
+    },
+    "HG00311": {
+        "Sample": "HG00311",
+        "Population": "FIN",
+        "Super_Population": "EUR",
+        "Sex": "Male"
+    },
+    "HG00313": {
+        "Sample": "HG00313",
+        "Population": "FIN",
+        "Super_Population": "EUR",
+        "Sex": "Male"
+    },
+    "HG00315": {
+        "Sample": "HG00315",
+        "Population": "FIN",
+        "Super_Population": "EUR",
+        "Sex": "Female"
+    },
+    "HG00321": {
+        "Sample": "HG00321",
+        "Population": "FIN",
+        "Super_Population": "EUR",
+        "Sex": "Female"
+    },
+    "HG00323": {
+        "Sample": "HG00323",
+        "Population": "FIN",
+        "Super_Population": "EUR",
+        "Sex": "Male"
+    },
+    "HG00324": {
+        "Sample": "HG00324",
+        "Population": "FIN",
+        "Super_Population": "EUR",
+        "Sex": "Female"
+    },
+    "HG00325": {
+        "Sample": "HG00325",
+        "Population": "FIN",
+        "Super_Population": "EUR",
+        "Sex": "Female"
+    },
+    "HG00331": {
+        "Sample": "HG00331",
+        "Population": "FIN",
+        "Super_Population": "EUR",
+        "Sex": "Male"
+    },
+    "HG00334": {
+        "Sample": "HG00334",
+        "Population": "FIN",
+        "Super_Population": "EUR",
+        "Sex": "Female"
+    },
+    "HG00335": {
+        "Sample": "HG00335",
+        "Population": "FIN",
+        "Super_Population": "EUR",
+        "Sex": "Female"
+    },
+    "HG00336": {
+        "Sample": "HG00336",
+        "Population": "FIN",
+        "Super_Population": "EUR",
+        "Sex": "Male"
+    },
+    "HG00338": {
+        "Sample": "HG00338",
+        "Population": "FIN",
+        "Super_Population": "EUR",
+        "Sex": "Male"
+    },
+    "HG00342": {
+        "Sample": "HG00342",
+        "Population": "FIN",
+        "Super_Population": "EUR",
+        "Sex": "Male"
+    },
+    "HG00346": {
+        "Sample": "HG00346",
+        "Population": "FIN",
+        "Super_Population": "EUR",
+        "Sex": "Male"
+    },
+    "HG00349": {
+        "Sample": "HG00349",
+        "Population": "FIN",
+        "Super_Population": "EUR",
+        "Sex": "Female"
+    },
+    "HG00357": {
+        "Sample": "HG00357",
+        "Population": "FIN",
+        "Super_Population": "EUR",
+        "Sex": "Female"
+    },
+    "HG00360": {
+        "Sample": "HG00360",
+        "Population": "FIN",
+        "Super_Population": "EUR",
+        "Sex": "Female"
+    },
+    "HG00365": {
+        "Sample": "HG00365",
+        "Population": "FIN",
+        "Super_Population": "EUR",
+        "Sex": "Male"
+    },
+    "HG00367": {
+        "Sample": "HG00367",
+        "Population": "FIN",
+        "Super_Population": "EUR",
+        "Sex": "Female"
+    },
+    "HG00368": {
+        "Sample": "HG00368",
+        "Population": "FIN",
+        "Super_Population": "EUR",
+        "Sex": "Female"
+    },
+    "HG00378": {
+        "Sample": "HG00378",
+        "Population": "FIN",
+        "Super_Population": "EUR",
+        "Sex": "Female"
+    },
+    "HG00381": {
+        "Sample": "HG00381",
+        "Population": "FIN",
+        "Super_Population": "EUR",
+        "Sex": "Female"
+    },
+    "HG01500": {
+        "Sample": "HG01500",
+        "Population": "IBS",
+        "Super_Population": "EUR",
+        "Sex": "Female"
+    },
+    "HG01501": {
+        "Sample": "HG01501",
+        "Population": "IBS",
+        "Super_Population": "EUR",
+        "Sex": "Male"
+    },
+    "HG01504": {
+        "Sample": "HG01504",
+        "Population": "IBS",
+        "Super_Population": "EUR",
+        "Sex": "Female"
+    },
+    "HG01506": {
+        "Sample": "HG01506",
+        "Population": "IBS",
+        "Super_Population": "EUR",
+        "Sex": "Female"
+    },
+    "HG01507": {
+        "Sample": "HG01507",
+        "Population": "IBS",
+        "Super_Population": "EUR",
+        "Sex": "Male"
+    },
+    "HG01509": {
+        "Sample": "HG01509",
+        "Population": "IBS",
+        "Super_Population": "EUR",
+        "Sex": "Female"
+    },
+    "HG01512": {
+        "Sample": "HG01512",
+        "Population": "IBS",
+        "Super_Population": "EUR",
+        "Sex": "Male"
+    },
+    "HG01513": {
+        "Sample": "HG01513",
+        "Population": "IBS",
+        "Super_Population": "EUR",
+        "Sex": "Male"
+    },
+    "HG01518": {
+        "Sample": "HG01518",
+        "Population": "IBS",
+        "Super_Population": "EUR",
+        "Sex": "Female"
+    },
+    "HG01519": {
+        "Sample": "HG01519",
+        "Population": "IBS",
+        "Super_Population": "EUR",
+        "Sex": "Male"
+    },
+    "HG01525": {
+        "Sample": "HG01525",
+        "Population": "IBS",
+        "Super_Population": "EUR",
+        "Sex": "Female"
+    },
+    "HG01602": {
+        "Sample": "HG01602",
+        "Population": "IBS",
+        "Super_Population": "EUR",
+        "Sex": "Female"
+    },
+    "HG01605": {
+        "Sample": "HG01605",
+        "Population": "IBS",
+        "Super_Population": "EUR",
+        "Sex": "Female"
+    },
+    "HG01606": {
+        "Sample": "HG01606",
+        "Population": "IBS",
+        "Super_Population": "EUR",
+        "Sex": "Female"
+    },
+    "HG01608": {
+        "Sample": "HG01608",
+        "Population": "IBS",
+        "Super_Population": "EUR",
+        "Sex": "Male"
+    },
+    "HG01612": {
+        "Sample": "HG01612",
+        "Population": "IBS",
+        "Super_Population": "EUR",
+        "Sex": "Male"
+    },
+    "HG01615": {
+        "Sample": "HG01615",
+        "Population": "IBS",
+        "Super_Population": "EUR",
+        "Sex": "Female"
+    },
+    "HG01617": {
+        "Sample": "HG01617",
+        "Population": "IBS",
+        "Super_Population": "EUR",
+        "Sex": "Male"
+    },
+    "HG01626": {
+        "Sample": "HG01626",
+        "Population": "IBS",
+        "Super_Population": "EUR",
+        "Sex": "Male"
+    },
+    "HG01630": {
+        "Sample": "HG01630",
+        "Population": "IBS",
+        "Super_Population": "EUR",
+        "Sex": "Female"
+    },
+    "HG01673": {
+        "Sample": "HG01673",
+        "Population": "IBS",
+        "Super_Population": "EUR",
+        "Sex": "Male"
+    },
+    "HG01676": {
+        "Sample": "HG01676",
+        "Population": "IBS",
+        "Super_Population": "EUR",
+        "Sex": "Female"
+    },
+    "HG01678": {
+        "Sample": "HG01678",
+        "Population": "IBS",
+        "Super_Population": "EUR",
+        "Sex": "Female"
+    },
+    "HG01680": {
+        "Sample": "HG01680",
+        "Population": "IBS",
+        "Super_Population": "EUR",
+        "Sex": "Male"
+    },
+    "HG01684": {
+        "Sample": "HG01684",
+        "Population": "IBS",
+        "Super_Population": "EUR",
+        "Sex": "Male"
+    },
+    "HG01694": {
+        "Sample": "HG01694",
+        "Population": "IBS",
+        "Super_Population": "EUR",
+        "Sex": "Female"
+    },
+    "HG01695": {
+        "Sample": "HG01695",
+        "Population": "IBS",
+        "Super_Population": "EUR",
+        "Sex": "Male"
+    },
+    "HG01699": {
+        "Sample": "HG01699",
+        "Population": "IBS",
+        "Super_Population": "EUR",
+        "Sex": "Female"
+    },
+    "HG01700": {
+        "Sample": "HG01700",
+        "Population": "IBS",
+        "Super_Population": "EUR",
+        "Sex": "Male"
+    },
+    "HG01756": {
+        "Sample": "HG01756",
+        "Population": "IBS",
+        "Super_Population": "EUR",
+        "Sex": "Male"
+    },
+    "HG01765": {
+        "Sample": "HG01765",
+        "Population": "IBS",
+        "Super_Population": "EUR",
+        "Sex": "Male"
+    },
+    "HG01766": {
+        "Sample": "HG01766",
+        "Population": "IBS",
+        "Super_Population": "EUR",
+        "Sex": "Male"
+    },
+    "HG01773": {
+        "Sample": "HG01773",
+        "Population": "IBS",
+        "Super_Population": "EUR",
+        "Sex": "Female"
+    },
+    "HG01776": {
+        "Sample": "HG01776",
+        "Population": "IBS",
+        "Super_Population": "EUR",
+        "Sex": "Female"
+    },
+    "HG01779": {
+        "Sample": "HG01779",
+        "Population": "IBS",
+        "Super_Population": "EUR",
+        "Sex": "Female"
+    },
+    "HG01786": {
+        "Sample": "HG01786",
+        "Population": "IBS",
+        "Super_Population": "EUR",
+        "Sex": "Female"
+    },
+    "HG01789": {
+        "Sample": "HG01789",
+        "Population": "GBR",
+        "Super_Population": "EUR",
+        "Sex": "Female"
+    },
+    "HG01790": {
+        "Sample": "HG01790",
+        "Population": "GBR",
+        "Super_Population": "EUR",
+        "Sex": "Male"
+    },
+    "HG01791": {
+        "Sample": "HG01791",
+        "Population": "GBR",
+        "Super_Population": "EUR",
+        "Sex": "Female"
+    },
+    "HG02223": {
+        "Sample": "HG02223",
+        "Population": "IBS",
+        "Super_Population": "EUR",
+        "Sex": "Male"
+    },
+    "HG02224": {
+        "Sample": "HG02224",
+        "Population": "IBS",
+        "Super_Population": "EUR",
+        "Sex": "Female"
+    },
+    "HG02231": {
+        "Sample": "HG02231",
+        "Population": "IBS",
+        "Super_Population": "EUR",
+        "Sex": "Male"
+    },
+    "HG02238": {
+        "Sample": "HG02238",
+        "Population": "IBS",
+        "Super_Population": "EUR",
+        "Sex": "Male"
+    },
+    "HG02239": {
+        "Sample": "HG02239",
+        "Population": "IBS",
+        "Super_Population": "EUR",
+        "Sex": "Male"
+    },
+    "NA06989": {
+        "Sample": "NA06989",
+        "Population": "CEU",
+        "Super_Population": "EUR",
+        "Sex": "Female"
+    },
+    "NA07048": {
+        "Sample": "NA07048",
+        "Population": "CEU",
+        "Super_Population": "EUR",
+        "Sex": "Male"
+    },
+    "NA10851": {
+        "Sample": "NA10851",
+        "Population": "CEU",
+        "Super_Population": "EUR",
+        "Sex": "Male"
+    },
+    "NA12889": {
+        "Sample": "NA12889",
+        "Population": "CEU",
+        "Super_Population": "EUR",
+        "Sex": "Male"
+    },
+    "NA12890": {
+        "Sample": "NA12890",
+        "Population": "CEU",
+        "Super_Population": "EUR",
+        "Sex": "Female"
+    },
+    "NA12891": {
+        "Sample": "NA12891",
+        "Population": "CEU",
+        "Super_Population": "EUR",
+        "Sex": "Male"
+    },
+    "NA12892": {
+        "Sample": "NA12892",
+        "Population": "CEU",
+        "Super_Population": "EUR",
+        "Sex": "Female"
+    },
+    "NA20503": {
+        "Sample": "NA20503",
+        "Population": "TSI",
+        "Super_Population": "EUR",
+        "Sex": "Female"
+    },
+    "NA20504": {
+        "Sample": "NA20504",
+        "Population": "TSI",
+        "Super_Population": "EUR",
+        "Sex": "Female"
+    },
+    "NA20505": {
+        "Sample": "NA20505",
+        "Population": "TSI",
+        "Super_Population": "EUR",
+        "Sex": "Female"
+    },
+    "NA20514": {
+        "Sample": "NA20514",
+        "Population": "TSI",
+        "Super_Population": "EUR",
+        "Sex": "Female"
+    },
+    "NA20520": {
+        "Sample": "NA20520",
+        "Population": "TSI",
+        "Super_Population": "EUR",
+        "Sex": "Female"
+    },
+    "NA20525": {
+        "Sample": "NA20525",
+        "Population": "TSI",
+        "Super_Population": "EUR",
+        "Sex": "Male"
+    },
+    "NA20531": {
+        "Sample": "NA20531",
+        "Population": "TSI",
+        "Super_Population": "EUR",
+        "Sex": "Male"
+    },
+    "NA20532": {
+        "Sample": "NA20532",
+        "Population": "TSI",
+        "Super_Population": "EUR",
+        "Sex": "Female"
+    },
+    "NA20534": {
+        "Sample": "NA20534",
+        "Population": "TSI",
+        "Super_Population": "EUR",
+        "Sex": "Male"
+    },
+    "NA20536": {
+        "Sample": "NA20536",
+        "Population": "TSI",
+        "Super_Population": "EUR",
+        "Sex": "Male"
+    },
+    "NA20538": {
+        "Sample": "NA20538",
+        "Population": "TSI",
+        "Super_Population": "EUR",
+        "Sex": "Male"
+    },
+    "NA20539": {
+        "Sample": "NA20539",
+        "Population": "TSI",
+        "Super_Population": "EUR",
+        "Sex": "Male"
+    },
+    "NA20540": {
+        "Sample": "NA20540",
+        "Population": "TSI",
+        "Super_Population": "EUR",
+        "Sex": "Male"
+    },
+    "NA20585": {
+        "Sample": "NA20585",
+        "Population": "TSI",
+        "Super_Population": "EUR",
+        "Sex": "Female"
+    },
+    "NA20587": {
+        "Sample": "NA20587",
+        "Population": "TSI",
+        "Super_Population": "EUR",
+        "Sex": "Female"
+    },
+    "NA20588": {
+        "Sample": "NA20588",
+        "Population": "TSI",
+        "Super_Population": "EUR",
+        "Sex": "Female"
+    },
+    "NA20752": {
+        "Sample": "NA20752",
+        "Population": "TSI",
+        "Super_Population": "EUR",
+        "Sex": "Male"
+    },
+    "NA20753": {
+        "Sample": "NA20753",
+        "Population": "TSI",
+        "Super_Population": "EUR",
+        "Sex": "Male"
+    },
+    "NA20757": {
+        "Sample": "NA20757",
+        "Population": "TSI",
+        "Super_Population": "EUR",
+        "Sex": "Female"
+    },
+    "NA20761": {
+        "Sample": "NA20761",
+        "Population": "TSI",
+        "Super_Population": "EUR",
+        "Sex": "Female"
+    },
+    "NA20762": {
+        "Sample": "NA20762",
+        "Population": "TSI",
+        "Super_Population": "EUR",
+        "Sex": "Female"
+    },
+    "NA20764": {
+        "Sample": "NA20764",
+        "Population": "TSI",
+        "Super_Population": "EUR",
+        "Sex": "Male"
+    },
+    "NA20769": {
+        "Sample": "NA20769",
+        "Population": "TSI",
+        "Super_Population": "EUR",
+        "Sex": "Female"
+    },
+    "NA20775": {
+        "Sample": "NA20775",
+        "Population": "TSI",
+        "Super_Population": "EUR",
+        "Sex": "Female"
+    },
+    "NA20778": {
+        "Sample": "NA20778",
+        "Population": "TSI",
+        "Super_Population": "EUR",
+        "Sex": "Female"
+    },
+    "NA20785": {
+        "Sample": "NA20785",
+        "Population": "TSI",
+        "Super_Population": "EUR",
+        "Sex": "Male"
+    },
+    "NA20787": {
+        "Sample": "NA20787",
+        "Population": "TSI",
+        "Super_Population": "EUR",
+        "Sex": "Male"
+    },
+    "NA20795": {
+        "Sample": "NA20795",
+        "Population": "TSI",
+        "Super_Population": "EUR",
+        "Sex": "Male"
+    },
+    "NA20801": {
+        "Sample": "NA20801",
+        "Population": "TSI",
+        "Super_Population": "EUR",
+        "Sex": "Female"
+    },
+    "NA20805": {
+        "Sample": "NA20805",
+        "Population": "TSI",
+        "Super_Population": "EUR",
+        "Sex": "Male"
+    },
+    "NA20810": {
+        "Sample": "NA20810",
+        "Population": "TSI",
+        "Super_Population": "EUR",
+        "Sex": "Male"
+    },
+    "NA20813": {
+        "Sample": "NA20813",
+        "Population": "TSI",
+        "Super_Population": "EUR",
+        "Sex": "Male"
+    },
+    "NA20822": {
+        "Sample": "NA20822",
+        "Population": "TSI",
+        "Super_Population": "EUR",
+        "Sex": "Female"
+    },
+    "HG02602": {
+        "Sample": "HG02602",
+        "Population": "PJL",
+        "Super_Population": "SAS",
+        "Sex": "Female"
+    },
+    "HG02683": {
+        "Sample": "HG02683",
+        "Population": "PJL",
+        "Super_Population": "SAS",
+        "Sex": "Male"
+    },
+    "HG02698": {
+        "Sample": "HG02698",
+        "Population": "PJL",
+        "Super_Population": "SAS",
+        "Sex": "Female"
+    },
+    "HG02738": {
+        "Sample": "HG02738",
+        "Population": "PJL",
+        "Super_Population": "SAS",
+        "Sex": "Male"
+    },
+    "HG03017": {
+        "Sample": "HG03017",
+        "Population": "PJL",
+        "Super_Population": "SAS",
+        "Sex": "Male"
+    },
+    "HG03239": {
+        "Sample": "HG03239",
+        "Population": "PJL",
+        "Super_Population": "SAS",
+        "Sex": "Male"
+    },
+    "HG03654": {
+        "Sample": "HG03654",
+        "Population": "PJL",
+        "Super_Population": "SAS",
+        "Sex": "Female"
+    },
+    "HG03669": {
+        "Sample": "HG03669",
+        "Population": "PJL",
+        "Super_Population": "SAS",
+        "Sex": "Male"
+    },
+    "HG03688": {
+        "Sample": "HG03688",
+        "Population": "STU",
+        "Super_Population": "SAS",
+        "Sex": "Female"
+    },
+    "HG03710": {
+        "Sample": "HG03710",
+        "Population": "PJL",
+        "Super_Population": "SAS",
+        "Sex": "Male"
+    },
+    "HG03816": {
+        "Sample": "HG03816",
+        "Population": "BEB",
+        "Super_Population": "SAS",
+        "Sex": "Male"
+    },
+    "HG03831": {
+        "Sample": "HG03831",
+        "Population": "BEB",
+        "Super_Population": "SAS",
+        "Sex": "Female"
+    },
+    "HG03834": {
+        "Sample": "HG03834",
+        "Population": "BEB",
+        "Super_Population": "SAS",
+        "Sex": "Female"
+    },
+    "HG03927": {
+        "Sample": "HG03927",
+        "Population": "BEB",
+        "Super_Population": "SAS",
+        "Sex": "Female"
+    },
+    "HG03942": {
+        "Sample": "HG03942",
+        "Population": "BEB",
+        "Super_Population": "SAS",
+        "Sex": "Female"
+    },
+    "HG04115": {
+        "Sample": "HG04115",
+        "Population": "STU",
+        "Super_Population": "SAS",
+        "Sex": "Male"
+    },
+    "HG04184": {
+        "Sample": "HG04184",
+        "Population": "BEB",
+        "Super_Population": "SAS",
+        "Sex": "Male"
+    },
+    "HG04199": {
+        "Sample": "HG04199",
+        "Population": "STU",
+        "Super_Population": "SAS",
+        "Sex": "Female"
+    },
+    "HG04204": {
+        "Sample": "HG04204",
+        "Population": "STU",
+        "Super_Population": "SAS",
+        "Sex": "Male"
+    },
+    "HG04228": {
+        "Sample": "HG04228",
+        "Population": "STU",
+        "Super_Population": "SAS",
+        "Sex": "Male"
+    },
+    "HG01583": {
+        "Sample": "HG01583",
+        "Population": "PJL",
+        "Super_Population": "SAS",
+        "Sex": "Male"
+    },
+    "HG01586": {
+        "Sample": "HG01586",
+        "Population": "PJL",
+        "Super_Population": "SAS",
+        "Sex": "Male"
+    },
+    "HG01589": {
+        "Sample": "HG01589",
+        "Population": "PJL",
+        "Super_Population": "SAS",
+        "Sex": "Male"
+    },
+    "HG02490": {
+        "Sample": "HG02490",
+        "Population": "PJL",
+        "Super_Population": "SAS",
+        "Sex": "Male"
+    },
+    "HG02493": {
+        "Sample": "HG02493",
+        "Population": "PJL",
+        "Super_Population": "SAS",
+        "Sex": "Male"
+    },
+    "HG02494": {
+        "Sample": "HG02494",
+        "Population": "PJL",
+        "Super_Population": "SAS",
+        "Sex": "Male"
+    },
+    "HG02597": {
+        "Sample": "HG02597",
+        "Population": "PJL",
+        "Super_Population": "SAS",
+        "Sex": "Female"
+    },
+    "HG02600": {
+        "Sample": "HG02600",
+        "Population": "PJL",
+        "Super_Population": "SAS",
+        "Sex": "Male"
+    },
+    "HG02604": {
+        "Sample": "HG02604",
+        "Population": "PJL",
+        "Super_Population": "SAS",
+        "Sex": "Male"
+    },
+    "HG02657": {
+        "Sample": "HG02657",
+        "Population": "PJL",
+        "Super_Population": "SAS",
+        "Sex": "Female"
+    },
+    "HG02681": {
+        "Sample": "HG02681",
+        "Population": "PJL",
+        "Super_Population": "SAS",
+        "Sex": "Male"
+    },
+    "HG02684": {
+        "Sample": "HG02684",
+        "Population": "PJL",
+        "Super_Population": "SAS",
+        "Sex": "Male"
+    },
+    "HG02685": {
+        "Sample": "HG02685",
+        "Population": "PJL",
+        "Super_Population": "SAS",
+        "Sex": "Male"
+    },
+    "HG02687": {
+        "Sample": "HG02687",
+        "Population": "PJL",
+        "Super_Population": "SAS",
+        "Sex": "Female"
+    },
+    "HG02688": {
+        "Sample": "HG02688",
+        "Population": "PJL",
+        "Super_Population": "SAS",
+        "Sex": "Male"
+    },
+    "HG02690": {
+        "Sample": "HG02690",
+        "Population": "PJL",
+        "Super_Population": "SAS",
+        "Sex": "Female"
+    },
+    "HG02691": {
+        "Sample": "HG02691",
+        "Population": "PJL",
+        "Super_Population": "SAS",
+        "Sex": "Male"
+    },
+    "HG02694": {
+        "Sample": "HG02694",
+        "Population": "PJL",
+        "Super_Population": "SAS",
+        "Sex": "Female"
+    },
+    "HG02697": {
+        "Sample": "HG02697",
+        "Population": "PJL",
+        "Super_Population": "SAS",
+        "Sex": "Female"
+    },
+    "HG02724": {
+        "Sample": "HG02724",
+        "Population": "PJL",
+        "Super_Population": "SAS",
+        "Sex": "Female"
+    },
+    "HG02727": {
+        "Sample": "HG02727",
+        "Population": "PJL",
+        "Super_Population": "SAS",
+        "Sex": "Male"
+    },
+    "HG02728": {
+        "Sample": "HG02728",
+        "Population": "PJL",
+        "Super_Population": "SAS",
+        "Sex": "Male"
+    },
+    "HG02731": {
+        "Sample": "HG02731",
+        "Population": "PJL",
+        "Super_Population": "SAS",
+        "Sex": "Female"
+    },
+    "HG02737": {
+        "Sample": "HG02737",
+        "Population": "PJL",
+        "Super_Population": "SAS",
+        "Sex": "Female"
+    },
+    "HG02789": {
+        "Sample": "HG02789",
+        "Population": "PJL",
+        "Super_Population": "SAS",
+        "Sex": "Female"
+    },
+    "HG02793": {
+        "Sample": "HG02793",
+        "Population": "PJL",
+        "Super_Population": "SAS",
+        "Sex": "Male"
+    },
+    "HG03009": {
+        "Sample": "HG03009",
+        "Population": "BEB",
+        "Super_Population": "SAS",
+        "Sex": "Female"
+    },
+    "HG03015": {
+        "Sample": "HG03015",
+        "Population": "PJL",
+        "Super_Population": "SAS",
+        "Sex": "Male"
+    },
+    "HG03016": {
+        "Sample": "HG03016",
+        "Population": "PJL",
+        "Super_Population": "SAS",
+        "Sex": "Male"
+    },
+    "HG03019": {
+        "Sample": "HG03019",
+        "Population": "PJL",
+        "Super_Population": "SAS",
+        "Sex": "Female"
+    },
+    "HG03022": {
+        "Sample": "HG03022",
+        "Population": "PJL",
+        "Super_Population": "SAS",
+        "Sex": "Female"
+    },
+    "HG03228": {
+        "Sample": "HG03228",
+        "Population": "PJL",
+        "Super_Population": "SAS",
+        "Sex": "Female"
+    },
+    "HG03238": {
+        "Sample": "HG03238",
+        "Population": "PJL",
+        "Super_Population": "SAS",
+        "Sex": "Male"
+    },
+    "HG03593": {
+        "Sample": "HG03593",
+        "Population": "BEB",
+        "Super_Population": "SAS",
+        "Sex": "Female"
+    },
+    "HG03595": {
+        "Sample": "HG03595",
+        "Population": "BEB",
+        "Super_Population": "SAS",
+        "Sex": "Male"
+    },
+    "HG03598": {
+        "Sample": "HG03598",
+        "Population": "BEB",
+        "Super_Population": "SAS",
+        "Sex": "Female"
+    },
+    "HG03600": {
+        "Sample": "HG03600",
+        "Population": "BEB",
+        "Super_Population": "SAS",
+        "Sex": "Female"
+    },
+    "HG03604": {
+        "Sample": "HG03604",
+        "Population": "BEB",
+        "Super_Population": "SAS",
+        "Sex": "Male"
+    },
+    "HG03607": {
+        "Sample": "HG03607",
+        "Population": "BEB",
+        "Super_Population": "SAS",
+        "Sex": "Female"
+    },
+    "HG03631": {
+        "Sample": "HG03631",
+        "Population": "PJL",
+        "Super_Population": "SAS",
+        "Sex": "Female"
+    },
+    "HG03633": {
+        "Sample": "HG03633",
+        "Population": "PJL",
+        "Super_Population": "SAS",
+        "Sex": "Female"
+    },
+    "HG03639": {
+        "Sample": "HG03639",
+        "Population": "PJL",
+        "Super_Population": "SAS",
+        "Sex": "Male"
+    },
+    "HG03640": {
+        "Sample": "HG03640",
+        "Population": "PJL",
+        "Super_Population": "SAS",
+        "Sex": "Male"
+    },
+    "HG03643": {
+        "Sample": "HG03643",
+        "Population": "STU",
+        "Super_Population": "SAS",
+        "Sex": "Female"
+    },
+    "HG03644": {
+        "Sample": "HG03644",
+        "Population": "STU",
+        "Super_Population": "SAS",
+        "Sex": "Female"
+    },
+    "HG03645": {
+        "Sample": "HG03645",
+        "Population": "STU",
+        "Super_Population": "SAS",
+        "Sex": "Male"
+    },
+    "HG03646": {
+        "Sample": "HG03646",
+        "Population": "STU",
+        "Super_Population": "SAS",
+        "Sex": "Female"
+    },
+    "HG03650": {
+        "Sample": "HG03650",
+        "Population": "PJL",
+        "Super_Population": "SAS",
+        "Sex": "Male"
+    },
+    "HG03668": {
+        "Sample": "HG03668",
+        "Population": "PJL",
+        "Super_Population": "SAS",
+        "Sex": "Female"
+    },
+    "HG03672": {
+        "Sample": "HG03672",
+        "Population": "STU",
+        "Super_Population": "SAS",
+        "Sex": "Female"
+    },
+    "HG03673": {
+        "Sample": "HG03673",
+        "Population": "STU",
+        "Super_Population": "SAS",
+        "Sex": "Male"
+    },
+    "HG03681": {
+        "Sample": "HG03681",
+        "Population": "STU",
+        "Super_Population": "SAS",
+        "Sex": "Female"
+    },
+    "HG03686": {
+        "Sample": "HG03686",
+        "Population": "STU",
+        "Super_Population": "SAS",
+        "Sex": "Male"
+    },
+    "HG03687": {
+        "Sample": "HG03687",
+        "Population": "STU",
+        "Super_Population": "SAS",
+        "Sex": "Male"
+    },
+    "HG03689": {
+        "Sample": "HG03689",
+        "Population": "STU",
+        "Super_Population": "SAS",
+        "Sex": "Male"
+    },
+    "HG03690": {
+        "Sample": "HG03690",
+        "Population": "STU",
+        "Super_Population": "SAS",
+        "Sex": "Female"
+    },
+    "HG03695": {
+        "Sample": "HG03695",
+        "Population": "STU",
+        "Super_Population": "SAS",
+        "Sex": "Female"
+    },
+    "HG03697": {
+        "Sample": "HG03697",
+        "Population": "STU",
+        "Super_Population": "SAS",
+        "Sex": "Male"
+    },
+    "HG03703": {
+        "Sample": "HG03703",
+        "Population": "PJL",
+        "Super_Population": "SAS",
+        "Sex": "Male"
+    },
+    "HG03705": {
+        "Sample": "HG03705",
+        "Population": "PJL",
+        "Super_Population": "SAS",
+        "Sex": "Female"
+    },
+    "HG03708": {
+        "Sample": "HG03708",
+        "Population": "PJL",
+        "Super_Population": "SAS",
+        "Sex": "Male"
+    },
+    "HG03709": {
+        "Sample": "HG03709",
+        "Population": "PJL",
+        "Super_Population": "SAS",
+        "Sex": "Male"
+    },
+    "HG03711": {
+        "Sample": "HG03711",
+        "Population": "STU",
+        "Super_Population": "SAS",
+        "Sex": "Female"
+    },
+    "HG03714": {
+        "Sample": "HG03714",
+        "Population": "ITU",
+        "Super_Population": "SAS",
+        "Sex": "Male"
+    },
+    "HG03717": {
+        "Sample": "HG03717",
+        "Population": "ITU",
+        "Super_Population": "SAS",
+        "Sex": "Female"
+    },
+    "HG03721": {
+        "Sample": "HG03721",
+        "Population": "ITU",
+        "Super_Population": "SAS",
+        "Sex": "Female"
+    },
+    "HG03722": {
+        "Sample": "HG03722",
+        "Population": "ITU",
+        "Super_Population": "SAS",
+        "Sex": "Female"
+    },
+    "HG03727": {
+        "Sample": "HG03727",
+        "Population": "ITU",
+        "Super_Population": "SAS",
+        "Sex": "Female"
+    },
+    "HG03729": {
+        "Sample": "HG03729",
+        "Population": "ITU",
+        "Super_Population": "SAS",
+        "Sex": "Male"
+    },
+    "HG03730": {
+        "Sample": "HG03730",
+        "Population": "ITU",
+        "Super_Population": "SAS",
+        "Sex": "Male"
+    },
+    "HG03731": {
+        "Sample": "HG03731",
+        "Population": "ITU",
+        "Super_Population": "SAS",
+        "Sex": "Female"
+    },
+    "HG03740": {
+        "Sample": "HG03740",
+        "Population": "STU",
+        "Super_Population": "SAS",
+        "Sex": "Female"
+    },
+    "HG03742": {
+        "Sample": "HG03742",
+        "Population": "ITU",
+        "Super_Population": "SAS",
+        "Sex": "Male"
+    },
+    "HG03744": {
+        "Sample": "HG03744",
+        "Population": "STU",
+        "Super_Population": "SAS",
+        "Sex": "Male"
+    },
+    "HG03746": {
+        "Sample": "HG03746",
+        "Population": "STU",
+        "Super_Population": "SAS",
+        "Sex": "Male"
+    },
+    "HG03753": {
+        "Sample": "HG03753",
+        "Population": "STU",
+        "Super_Population": "SAS",
+        "Sex": "Male"
+    },
+    "HG03756": {
+        "Sample": "HG03756",
+        "Population": "STU",
+        "Super_Population": "SAS",
+        "Sex": "Male"
+    },
+    "HG03760": {
+        "Sample": "HG03760",
+        "Population": "STU",
+        "Super_Population": "SAS",
+        "Sex": "Female"
+    },
+    "HG03761": {
+        "Sample": "HG03761",
+        "Population": "PJL",
+        "Super_Population": "SAS",
+        "Sex": "Female"
+    },
+    "HG03770": {
+        "Sample": "HG03770",
+        "Population": "ITU",
+        "Super_Population": "SAS",
+        "Sex": "Male"
+    },
+    "HG03774": {
+        "Sample": "HG03774",
+        "Population": "ITU",
+        "Super_Population": "SAS",
+        "Sex": "Female"
+    },
+    "HG03780": {
+        "Sample": "HG03780",
+        "Population": "ITU",
+        "Super_Population": "SAS",
+        "Sex": "Female"
+    },
+    "HG03781": {
+        "Sample": "HG03781",
+        "Population": "ITU",
+        "Super_Population": "SAS",
+        "Sex": "Female"
+    },
+    "HG03784": {
+        "Sample": "HG03784",
+        "Population": "ITU",
+        "Super_Population": "SAS",
+        "Sex": "Female"
+    },
+    "HG03786": {
+        "Sample": "HG03786",
+        "Population": "ITU",
+        "Super_Population": "SAS",
+        "Sex": "Female"
+    },
+    "HG03792": {
+        "Sample": "HG03792",
+        "Population": "ITU",
+        "Super_Population": "SAS",
+        "Sex": "Male"
+    },
+    "HG03794": {
+        "Sample": "HG03794",
+        "Population": "BEB",
+        "Super_Population": "SAS",
+        "Sex": "Male"
+    },
+    "HG03797": {
+        "Sample": "HG03797",
+        "Population": "BEB",
+        "Super_Population": "SAS",
+        "Sex": "Male"
+    },
+    "HG03802": {
+        "Sample": "HG03802",
+        "Population": "BEB",
+        "Super_Population": "SAS",
+        "Sex": "Male"
+    },
+    "HG03803": {
+        "Sample": "HG03803",
+        "Population": "BEB",
+        "Super_Population": "SAS",
+        "Sex": "Female"
+    },
+    "HG03805": {
+        "Sample": "HG03805",
+        "Population": "BEB",
+        "Super_Population": "SAS",
+        "Sex": "Male"
+    },
+    "HG03809": {
+        "Sample": "HG03809",
+        "Population": "BEB",
+        "Super_Population": "SAS",
+        "Sex": "Female"
+    },
+    "HG03812": {
+        "Sample": "HG03812",
+        "Population": "BEB",
+        "Super_Population": "SAS",
+        "Sex": "Male"
+    },
+    "HG03814": {
+        "Sample": "HG03814",
+        "Population": "BEB",
+        "Super_Population": "SAS",
+        "Sex": "Male"
+    },
+    "HG03821": {
+        "Sample": "HG03821",
+        "Population": "BEB",
+        "Super_Population": "SAS",
+        "Sex": "Female"
+    },
+    "HG03824": {
+        "Sample": "HG03824",
+        "Population": "BEB",
+        "Super_Population": "SAS",
+        "Sex": "Male"
+    },
+    "HG03830": {
+        "Sample": "HG03830",
+        "Population": "BEB",
+        "Super_Population": "SAS",
+        "Sex": "Male"
+    },
+    "HG03836": {
+        "Sample": "HG03836",
+        "Population": "STU",
+        "Super_Population": "SAS",
+        "Sex": "Male"
+    },
+    "HG03837": {
+        "Sample": "HG03837",
+        "Population": "STU",
+        "Super_Population": "SAS",
+        "Sex": "Female"
+    },
+    "HG03838": {
+        "Sample": "HG03838",
+        "Population": "STU",
+        "Super_Population": "SAS",
+        "Sex": "Male"
+    },
+    "HG03844": {
+        "Sample": "HG03844",
+        "Population": "STU",
+        "Super_Population": "SAS",
+        "Sex": "Female"
+    },
+    "HG03848": {
+        "Sample": "HG03848",
+        "Population": "STU",
+        "Super_Population": "SAS",
+        "Sex": "Male"
+    },
+    "HG03854": {
+        "Sample": "HG03854",
+        "Population": "STU",
+        "Super_Population": "SAS",
+        "Sex": "Male"
+    },
+    "HG03856": {
+        "Sample": "HG03856",
+        "Population": "STU",
+        "Super_Population": "SAS",
+        "Sex": "Male"
+    },
+    "HG03861": {
+        "Sample": "HG03861",
+        "Population": "ITU",
+        "Super_Population": "SAS",
+        "Sex": "Male"
+    },
+    "HG03862": {
+        "Sample": "HG03862",
+        "Population": "ITU",
+        "Super_Population": "SAS",
+        "Sex": "Female"
+    },
+    "HG03863": {
+        "Sample": "HG03863",
+        "Population": "ITU",
+        "Super_Population": "SAS",
+        "Sex": "Female"
+    },
+    "HG03864": {
+        "Sample": "HG03864",
+        "Population": "ITU",
+        "Super_Population": "SAS",
+        "Sex": "Female"
+    },
+    "HG03868": {
+        "Sample": "HG03868",
+        "Population": "ITU",
+        "Super_Population": "SAS",
+        "Sex": "Male"
+    },
+    "HG03869": {
+        "Sample": "HG03869",
+        "Population": "ITU",
+        "Super_Population": "SAS",
+        "Sex": "Female"
+    },
+    "HG03870": {
+        "Sample": "HG03870",
+        "Population": "ITU",
+        "Super_Population": "SAS",
+        "Sex": "Male"
+    },
+    "HG03871": {
+        "Sample": "HG03871",
+        "Population": "ITU",
+        "Super_Population": "SAS",
+        "Sex": "Male"
+    },
+    "HG03872": {
+        "Sample": "HG03872",
+        "Population": "ITU",
+        "Super_Population": "SAS",
+        "Sex": "Male"
+    },
+    "HG03882": {
+        "Sample": "HG03882",
+        "Population": "ITU",
+        "Super_Population": "SAS",
+        "Sex": "Male"
+    },
+    "HG03888": {
+        "Sample": "HG03888",
+        "Population": "STU",
+        "Super_Population": "SAS",
+        "Sex": "Female"
+    },
+    "HG03890": {
+        "Sample": "HG03890",
+        "Population": "STU",
+        "Super_Population": "SAS",
+        "Sex": "Female"
+    },
+    "HG03895": {
+        "Sample": "HG03895",
+        "Population": "STU",
+        "Super_Population": "SAS",
+        "Sex": "Male"
+    },
+    "HG03898": {
+        "Sample": "HG03898",
+        "Population": "STU",
+        "Super_Population": "SAS",
+        "Sex": "Female"
+    },
+    "HG03900": {
+        "Sample": "HG03900",
+        "Population": "STU",
+        "Super_Population": "SAS",
+        "Sex": "Female"
+    },
+    "HG03904": {
+        "Sample": "HG03904",
+        "Population": "BEB",
+        "Super_Population": "SAS",
+        "Sex": "Male"
+    },
+    "HG03916": {
+        "Sample": "HG03916",
+        "Population": "BEB",
+        "Super_Population": "SAS",
+        "Sex": "Female"
+    },
+    "HG03919": {
+        "Sample": "HG03919",
+        "Population": "BEB",
+        "Super_Population": "SAS",
+        "Sex": "Female"
+    },
+    "HG03925": {
+        "Sample": "HG03925",
+        "Population": "BEB",
+        "Super_Population": "SAS",
+        "Sex": "Female"
+    },
+    "HG03928": {
+        "Sample": "HG03928",
+        "Population": "BEB",
+        "Super_Population": "SAS",
+        "Sex": "Female"
+    },
+    "HG03929": {
+        "Sample": "HG03929",
+        "Population": "BEB",
+        "Super_Population": "SAS",
+        "Sex": "Female"
+    },
+    "HG03931": {
+        "Sample": "HG03931",
+        "Population": "BEB",
+        "Super_Population": "SAS",
+        "Sex": "Male"
+    },
+    "HG03940": {
+        "Sample": "HG03940",
+        "Population": "BEB",
+        "Super_Population": "SAS",
+        "Sex": "Female"
+    },
+    "HG03941": {
+        "Sample": "HG03941",
+        "Population": "BEB",
+        "Super_Population": "SAS",
+        "Sex": "Female"
+    },
+    "HG03947": {
+        "Sample": "HG03947",
+        "Population": "STU",
+        "Super_Population": "SAS",
+        "Sex": "Male"
+    },
+    "HG03963": {
+        "Sample": "HG03963",
+        "Population": "ITU",
+        "Super_Population": "SAS",
+        "Sex": "Female"
+    },
+    "HG03965": {
+        "Sample": "HG03965",
+        "Population": "ITU",
+        "Super_Population": "SAS",
+        "Sex": "Male"
+    },
+    "HG03968": {
+        "Sample": "HG03968",
+        "Population": "ITU",
+        "Super_Population": "SAS",
+        "Sex": "Male"
+    },
+    "HG03971": {
+        "Sample": "HG03971",
+        "Population": "ITU",
+        "Super_Population": "SAS",
+        "Sex": "Female"
+    },
+    "HG03973": {
+        "Sample": "HG03973",
+        "Population": "ITU",
+        "Super_Population": "SAS",
+        "Sex": "Male"
+    },
+    "HG03976": {
+        "Sample": "HG03976",
+        "Population": "ITU",
+        "Super_Population": "SAS",
+        "Sex": "Female"
+    },
+    "HG03977": {
+        "Sample": "HG03977",
+        "Population": "ITU",
+        "Super_Population": "SAS",
+        "Sex": "Male"
+    },
+    "HG03990": {
+        "Sample": "HG03990",
+        "Population": "STU",
+        "Super_Population": "SAS",
+        "Sex": "Female"
+    },
+    "HG03999": {
+        "Sample": "HG03999",
+        "Population": "STU",
+        "Super_Population": "SAS",
+        "Sex": "Male"
+    },
+    "HG04006": {
+        "Sample": "HG04006",
+        "Population": "STU",
+        "Super_Population": "SAS",
+        "Sex": "Male"
+    },
+    "HG04014": {
+        "Sample": "HG04014",
+        "Population": "ITU",
+        "Super_Population": "SAS",
+        "Sex": "Male"
+    },
+    "HG04015": {
+        "Sample": "HG04015",
+        "Population": "ITU",
+        "Super_Population": "SAS",
+        "Sex": "Female"
+    },
+    "HG04017": {
+        "Sample": "HG04017",
+        "Population": "ITU",
+        "Super_Population": "SAS",
+        "Sex": "Male"
+    },
+    "HG04018": {
+        "Sample": "HG04018",
+        "Population": "ITU",
+        "Super_Population": "SAS",
+        "Sex": "Male"
+    },
+    "HG04020": {
+        "Sample": "HG04020",
+        "Population": "ITU",
+        "Super_Population": "SAS",
+        "Sex": "Female"
+    },
+    "HG04022": {
+        "Sample": "HG04022",
+        "Population": "ITU",
+        "Super_Population": "SAS",
+        "Sex": "Male"
+    },
+    "HG04039": {
+        "Sample": "HG04039",
+        "Population": "STU",
+        "Super_Population": "SAS",
+        "Sex": "Male"
+    },
+    "HG04054": {
+        "Sample": "HG04054",
+        "Population": "ITU",
+        "Super_Population": "SAS",
+        "Sex": "Male"
+    },
+    "HG04062": {
+        "Sample": "HG04062",
+        "Population": "ITU",
+        "Super_Population": "SAS",
+        "Sex": "Female"
+    },
+    "HG04063": {
+        "Sample": "HG04063",
+        "Population": "ITU",
+        "Super_Population": "SAS",
+        "Sex": "Female"
+    },
+    "HG04070": {
+        "Sample": "HG04070",
+        "Population": "ITU",
+        "Super_Population": "SAS",
+        "Sex": "Female"
+    },
+    "HG04099": {
+        "Sample": "HG04099",
+        "Population": "STU",
+        "Super_Population": "SAS",
+        "Sex": "Female"
+    },
+    "HG04131": {
+        "Sample": "HG04131",
+        "Population": "BEB",
+        "Super_Population": "SAS",
+        "Sex": "Female"
+    },
+    "HG04132": {
+        "Sample": "HG04132",
+        "Population": "BEB",
+        "Super_Population": "SAS",
+        "Sex": "Male"
+    },
+    "HG04140": {
+        "Sample": "HG04140",
+        "Population": "BEB",
+        "Super_Population": "SAS",
+        "Sex": "Female"
+    },
+    "HG04146": {
+        "Sample": "HG04146",
+        "Population": "BEB",
+        "Super_Population": "SAS",
+        "Sex": "Male"
+    },
+    "HG04147": {
+        "Sample": "HG04147",
+        "Population": "BEB",
+        "Super_Population": "SAS",
+        "Sex": "Male"
+    },
+    "HG04177": {
+        "Sample": "HG04177",
+        "Population": "BEB",
+        "Super_Population": "SAS",
+        "Sex": "Female"
+    },
+    "HG04180": {
+        "Sample": "HG04180",
+        "Population": "BEB",
+        "Super_Population": "SAS",
+        "Sex": "Female"
+    },
+    "HG04183": {
+        "Sample": "HG04183",
+        "Population": "BEB",
+        "Super_Population": "SAS",
+        "Sex": "Female"
+    },
+    "HG04186": {
+        "Sample": "HG04186",
+        "Population": "BEB",
+        "Super_Population": "SAS",
+        "Sex": "Female"
+    },
+    "HG04191": {
+        "Sample": "HG04191",
+        "Population": "BEB",
+        "Super_Population": "SAS",
+        "Sex": "Female"
+    },
+    "HG04192": {
+        "Sample": "HG04192",
+        "Population": "BEB",
+        "Super_Population": "SAS",
+        "Sex": "Male"
+    },
+    "HG04194": {
+        "Sample": "HG04194",
+        "Population": "BEB",
+        "Super_Population": "SAS",
+        "Sex": "Female"
+    },
+    "HG04195": {
+        "Sample": "HG04195",
+        "Population": "BEB",
+        "Super_Population": "SAS",
+        "Sex": "Male"
+    },
+    "HG04198": {
+        "Sample": "HG04198",
+        "Population": "ITU",
+        "Super_Population": "SAS",
+        "Sex": "Female"
+    },
+    "HG04200": {
+        "Sample": "HG04200",
+        "Population": "ITU",
+        "Super_Population": "SAS",
+        "Sex": "Male"
+    },
+    "HG04210": {
+        "Sample": "HG04210",
+        "Population": "STU",
+        "Super_Population": "SAS",
+        "Sex": "Female"
+    },
+    "HG04216": {
+        "Sample": "HG04216",
+        "Population": "ITU",
+        "Super_Population": "SAS",
+        "Sex": "Male"
+    },
+    "HG04227": {
+        "Sample": "HG04227",
+        "Population": "STU",
+        "Super_Population": "SAS",
+        "Sex": "Female"
+    },
+    "NA20846": {
+        "Sample": "NA20846",
+        "Population": "GIH",
+        "Super_Population": "SAS",
+        "Sex": "Female"
+    },
+    "NA20847": {
+        "Sample": "NA20847",
+        "Population": "GIH",
+        "Super_Population": "SAS",
+        "Sex": "Male"
+    },
+    "NA20852": {
+        "Sample": "NA20852",
+        "Population": "GIH",
+        "Super_Population": "SAS",
+        "Sex": "Female"
+    },
+    "NA20853": {
+        "Sample": "NA20853",
+        "Population": "GIH",
+        "Super_Population": "SAS",
+        "Sex": "Male"
+    },
+    "NA20858": {
+        "Sample": "NA20858",
+        "Population": "GIH",
+        "Super_Population": "SAS",
+        "Sex": "Female"
+    },
+    "NA20861": {
+        "Sample": "NA20861",
+        "Population": "GIH",
+        "Super_Population": "SAS",
+        "Sex": "Male"
+    },
+    "NA20863": {
+        "Sample": "NA20863",
+        "Population": "GIH",
+        "Super_Population": "SAS",
+        "Sex": "Male"
+    },
+    "NA20867": {
+        "Sample": "NA20867",
+        "Population": "GIH",
+        "Super_Population": "SAS",
+        "Sex": "Male"
+    },
+    "NA20876": {
+        "Sample": "NA20876",
+        "Population": "GIH",
+        "Super_Population": "SAS",
+        "Sex": "Male"
+    },
+    "NA20885": {
+        "Sample": "NA20885",
+        "Population": "GIH",
+        "Super_Population": "SAS",
+        "Sex": "Female"
+    },
+    "NA20888": {
+        "Sample": "NA20888",
+        "Population": "GIH",
+        "Super_Population": "SAS",
+        "Sex": "Male"
+    },
+    "NA20890": {
+        "Sample": "NA20890",
+        "Population": "GIH",
+        "Super_Population": "SAS",
+        "Sex": "Female"
+    },
+    "NA20896": {
+        "Sample": "NA20896",
+        "Population": "GIH",
+        "Super_Population": "SAS",
+        "Sex": "Male"
+    },
+    "NA20899": {
+        "Sample": "NA20899",
+        "Population": "GIH",
+        "Super_Population": "SAS",
+        "Sex": "Female"
+    },
+    "NA20900": {
+        "Sample": "NA20900",
+        "Population": "GIH",
+        "Super_Population": "SAS",
+        "Sex": "Female"
+    },
+    "NA20901": {
+        "Sample": "NA20901",
+        "Population": "GIH",
+        "Super_Population": "SAS",
+        "Sex": "Female"
+    },
+    "NA21098": {
+        "Sample": "NA21098",
+        "Population": "GIH",
+        "Super_Population": "SAS",
+        "Sex": "Male"
+    },
+    "NA21099": {
+        "Sample": "NA21099",
+        "Population": "GIH",
+        "Super_Population": "SAS",
+        "Sex": "Male"
+    },
+    "NA21102": {
+        "Sample": "NA21102",
+        "Population": "GIH",
+        "Super_Population": "SAS",
+        "Sex": "Male"
+    },
+    "NA21103": {
+        "Sample": "NA21103",
+        "Population": "GIH",
+        "Super_Population": "SAS",
+        "Sex": "Female"
+    },
+    "NA21110": {
+        "Sample": "NA21110",
+        "Population": "GIH",
+        "Super_Population": "SAS",
+        "Sex": "Female"
+    },
+    "NA21111": {
+        "Sample": "NA21111",
+        "Population": "GIH",
+        "Super_Population": "SAS",
+        "Sex": "Female"
+    }
+}
