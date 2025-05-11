@@ -206,7 +206,7 @@
                     <palette :color-map="extraMeta3ColorMap"></palette>
                 </label>
 
-
+<!-- <button @click="exportSVG">Export SVG</button> -->
 
             </div>
         </div>
@@ -659,6 +659,8 @@
 
             </div>
             <div>
+                
+
                 <help-popup></help-popup>
             </div>
         </div>
@@ -788,6 +790,28 @@
             },
 
             methods: {
+
+                // exportSVG() {
+                //     const svgNode = this.svg.node();
+                //     const serializer = new XMLSerializer();
+                //     const source = serializer.serializeToString(svgNode);
+
+                //     // Add xmlns attribute
+                //     const svgBlob = new Blob(
+                //         ['<?xml version="1.0" standalone="no"?>\n' + source],
+                //         { type: 'image/svg+xml;charset=utf-8' }
+                //     );
+
+                //     const url = URL.createObjectURL(svgBlob);
+                //     const link = document.createElement("a");
+                //     link.href = url;
+                //     link.download = "read2treeview.svg";
+                //     document.body.appendChild(link);
+                //     link.click();
+                //     document.body.removeChild(link);
+                // },
+
+
 
                 apply_filter() {
 
@@ -1318,7 +1342,7 @@
 
                 async prepareTree() {
                     const data = tree_data; // Replace with your actual data
-                
+
 
                     // const data = await d3.json("aa.tree.json");
                     // const tree_meta = await d3.json("aa.tree_meta.json");
