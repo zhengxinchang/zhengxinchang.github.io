@@ -42,6 +42,17 @@
         <script src="toc.js"></script>
     </head>
     <body>
+    <div id="mdbook-help-container">
+        <div id="mdbook-help-popup">
+            <h2 class="mdbook-help-title">Keyboard shortcuts</h2>
+            <div>
+                <p>Press <kbd>←</kbd> or <kbd>→</kbd> to navigate between chapters</p>
+                <p>Press <kbd>S</kbd> or <kbd>/</kbd> to search in the book</p>
+                <p>Press <kbd>?</kbd> to show this help</p>
+                <p>Press <kbd>Esc</kbd> to hide this help</p>
+            </div>
+        </div>
+    </div>
     <div id="body-container">
         <!-- Work around some values being stored in localStorage wrapped in quotes -->
         <script>
@@ -119,7 +130,7 @@
                             <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
                         </ul>
-                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                        <button id="search-toggle" class="icon-button" type="button" title="Search (`/`)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="/ s" aria-controls="searchbar">
                             <i class="fa fa-search"></i>
                         </button>
                     </div>
@@ -156,13 +167,14 @@
 
                 <div id="content" class="content">
                     <main>
-                        <p>[<a href="./home.html">Home</a>] [<a href="./research/main.html">Reasrch</a>]</p>
+                        <p>[<a href="./home.html">Home</a>] [<a href="./research/main.html">Research</a>]</p>
 <h1 id="about-me"><a class="header" href="#about-me">About me</a></h1>
 <p>Hi there! I'm Xinchang Zheng, a scientist specializing in genomics and bioinformatics research. Currently, I’m a Postdoctoral Researcher at the Human Genome Sequencing Center at Baylor College of Medicine.</p>
 <p>Wellcome to my blog.</p>
-<p>Thre are some oneline tools/resource I have built</p>
+<p>Thre are some tools/oneline resources I have built</p>
 <div class="table-wrapper"><table><thead><tr><th>Name</th><th>Description</th><th>Paper</th><th>Code</th><th>Website</th></tr></thead><tbody>
 <tr><td>STIX-LR</td><td>Extend STIX to long read dataset</td><td><a href="https://www.biorxiv.org/content/10.1101/2024.09.30.615931v1.abstract">link</a></td><td><a href="https://github.com/zhengxinchang/stix">link</a></td><td></td></tr>
+<tr><td>STIXlr2</td><td>Rust re-implimentation of STIX</td><td></td><td><a href="https://github.com/zhengxinchang/stixlr2">link</a></td><td></td></tr>
 <tr><td>CCAS</td><td>An webserver for individual cancer genome annotation at multi-omics level</td><td><a href="https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2022.956781/full">link</a></td><td></td><td><a href="https://ngdc.cncb.ac.cn/ccas/#/">link</a></td></tr>
 <tr><td>CCLHunter</td><td>An webserver to identify cancer cell lines</td><td><a href="https://www.sciencedirect.com/science/article/pii/S2001037023003537">link</a></td><td><a href="https://github.com/zhengxinchang/cclhunter-frontend">link</a></td><td><a href="https://ngdc.cncb.ac.cn/cclhunter/home">link</a></td></tr>
 <tr><td>GenBase</td><td>A Nucleotide Sequence Database</td><td><a href="https://academic.oup.com/gpb/article/22/3/qzae047/7698051">link</a></td><td></td><td><a href="https://ngdc.cncb.ac.cn/genbase/">link</a></td></tr>
@@ -171,8 +183,6 @@
 <tr><td>STIX websever</td><td>Front-end of STIX  webserver</td><td><a href="https://www.biorxiv.org/content/10.1101/2024.09.30.615931v1.abstract">link</a></td><td></td><td><a href="https://zhengxinchang.github.io/stix/">link</a></td></tr>
 <tr><td>ADASD</td><td>Front-end of ADASD webserver</td><td></td><td></td><td><a href="https://zhengxinchang.github.io/adasdb/">link</a></td></tr>
 <tr><td>Protdb</td><td>Front-end of ProtomeOmics database</td><td></td><td></td><td><a href="https://zhengxinchang.github.io/protdb/">link</a></td></tr>
-<tr><td>Read2TreeView</td><td>Visualization tool for read2tree</td><td></td><td></td><td><a href="https://zhengxinchang.github.io/r2t/">link</a></td></tr>
-<tr><td>swapfinder</td><td>A fast and accurate sample swap identification tool</td><td></td><td></td><td><a href="https://github.com/zhengxinchang/swapfinder">link</a></td></tr>
 </tbody></table>
 </div><!-- 
 <div style="display: grid; grid-template-columns: 2fr 1fr; gap: 20px;">
