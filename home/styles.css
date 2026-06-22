@@ -459,6 +459,78 @@ h3 {
   grid-template-columns: repeat(4, minmax(0, 1fr));
 }
 
+.pub-summary {
+  color: var(--muted);
+  font-size: 0.95rem;
+  margin: 0 0 1rem;
+}
+
+.publication-list {
+  display: grid;
+  gap: 0.95rem;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.publication-groups {
+  display: grid;
+  gap: 0.95rem;
+}
+
+.publication-year {
+  background: rgba(255, 255, 255, 0.72);
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  padding: 0.85rem;
+}
+
+.year-toggle {
+  align-items: center;
+  background: transparent;
+  border: 0;
+  color: var(--ink);
+  cursor: pointer;
+  display: flex;
+  justify-content: space-between;
+  padding: 0 0 0.7rem;
+  text-align: left;
+  width: 100%;
+}
+
+.year-label {
+  font-size: 1.05rem;
+  font-weight: 760;
+}
+
+.year-count {
+  color: var(--muted);
+  font-size: 0.88rem;
+  font-weight: 650;
+}
+
+.publication-item {
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  box-shadow: 0 10px 30px rgba(24, 32, 40, 0.05);
+  padding: 1rem 1.15rem;
+}
+
+.publication-item h3 {
+  margin-bottom: 0.55rem;
+}
+
+.publication-item p {
+  color: var(--muted);
+  margin: 0;
+}
+
+.pub-meta {
+  font-size: 0.92rem;
+  margin-top: 0.35rem;
+}
+
 .research-item,
 .tool-card {
   background: var(--surface);

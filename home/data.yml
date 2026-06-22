@@ -28,6 +28,8 @@ nav:
     href: "#about"
   - label: Research
     href: "#research"
+  - label: Publications
+    href: "#publications"
   - label: Tools
     href: "#tools"
   - label: GitHub
@@ -56,6 +58,9 @@ hero_actions:
   - label: Research directions
     href: "#research"
     style: primary
+  - label: Publications
+    href: "#publications"
+    style: secondary
   - label: Software and tools
     href: "#tools"
     style: secondary
@@ -107,6 +112,10 @@ tools_intro:
   title: Software and resources
   note: Selected projects from my existing GitHub Pages and research notes.
   table_caption: Tools, papers, code, and websites
+
+publications_intro:
+  eyebrow: Publications
+  title: Publications
 
 tools:
   - name: STIX-LR

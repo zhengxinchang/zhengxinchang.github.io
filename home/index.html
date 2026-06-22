@@ -154,6 +154,42 @@
             </div>
           </section>
 
+          <section class="section" id="publications" aria-labelledby="publications-title">
+            <div class="section-heading with-note">
+              <div>
+                <p class="eyebrow">{{ data.publications_intro?.eyebrow || 'Publications' }}</p>
+                <h2 id="publications-title">{{ data.publications_intro?.title || 'Publications' }}</h2>
+              </div>
+              <p class="section-note" v-if="data.publications_intro?.note">{{ data.publications_intro.note }}</p>
+            </div>
+
+            <p class="pub-summary" v-if="papers.length">
+              {{ papers.length }} publications grouped by year. Latest two years are expanded by default.
+            </p>
+
+            <div class="publication-groups" v-if="groupedPapers.length">
+              <section class="publication-year" v-for="(group, index) in groupedPapers" :key="group.year">
+                <button
+                  class="year-toggle"
+                  type="button"
+                  :aria-expanded="String(isYearExpanded(group.year, index))"
+                  @click="toggleYear(group.year, index)"
+                >
+                  <span class="year-label">{{ group.year }}</span>
+                  <span class="year-count">{{ group.papers.length }} papers</span>
+                </button>
+
+                <ol class="publication-list" v-show="isYearExpanded(group.year, index)">
+                  <li class="publication-item" v-for="paper in group.papers" :key="paper.key">
+                    <h3>{{ paper.title }}</h3>
+                    <p>{{ formatAuthors(paper.author) }}</p>
+                    <p class="pub-meta">{{ publicationMeta(paper) }}</p>
+                  </li>
+                </ol>
+              </section>
+            </div>
+          </section>
+
           <section class="section" id="tools" aria-labelledby="tools-title">
             <div class="section-heading with-note">
               <div>

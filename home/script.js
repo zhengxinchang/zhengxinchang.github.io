@@ -15,6 +15,8 @@ createApp({
       error: false,
       navOpen: false,
       observer: null,
+      papers: [],
+      expandedYears: {},
       year: new Date().getFullYear()
     };
   },
@@ -26,6 +28,24 @@ createApp({
         .filter((tool) => tool.featured)
         .slice()
         .sort((a, b) => (a.featured_order || 999) - (b.featured_order || 999));
+    },
+
+    groupedPapers() {
+      const groups = new Map();
+      const toYearValue = (value) => {
+        const numeric = Number(value);
+        return Number.isFinite(numeric) ? numeric : -Infinity;
+      };
+
+      this.papers.forEach((paper) => {
+        const year = paper.year || "Unknown";
+        if (!groups.has(year)) groups.set(year, []);
+        groups.get(year).push(paper);
+      });
+
+      return Array.from(groups.entries())
+        .sort((a, b) => toYearValue(b[0]) - toYearValue(a[0]))
+        .map(([year, papers]) => ({ year, papers }));
     }
   },
 
@@ -41,7 +61,7 @@ createApp({
 
     initObserver() {
       if (this.observer) this.observer.disconnect();
-      const sections = ["home", "about", "research", "tools"]
+      const sections = ["home", "about", "research", "publications", "tools"]
         .map((id) => document.querySelector(`#${id}`))
         .filter(Boolean);
 
@@ -84,6 +104,35 @@ createApp({
       });
     },
 
+    formatAuthors(value) {
+      if (!value) return "Authors unavailable";
+      return value.replace(/\s+and\s+/g, ", ");
+    },
+
+    publicationMeta(paper) {
+      const meta = [paper.journal, paper.year].filter(Boolean);
+      if (paper.volume) {
+        meta.push(paper.number ? `${paper.volume}(${paper.number})` : paper.volume);
+      }
+      if (paper.pages) meta.push(paper.pages);
+      return meta.join(" | ");
+    },
+
+    isYearExpanded(year, index) {
+      if (Object.prototype.hasOwnProperty.call(this.expandedYears, year)) {
+        return this.expandedYears[year];
+      }
+      return index < 1;
+    },
+
+    toggleYear(year, index) {
+      const current = this.isYearExpanded(year, index);
+      this.expandedYears = {
+        ...this.expandedYears,
+        [year]: !current
+      };
+    },
+
     topicNumber(index) {
       return String(index + 1).padStart(2, "0");
     }
@@ -97,9 +146,16 @@ createApp({
 
   async mounted() {
     try {
-      const response = await fetch(new URL("data.yml", homeBaseUrl));
-      if (!response.ok) throw new Error(`Unable to load data.yml: ${response.status}`);
-      this.data = jsyaml.load(await response.text());
+      const [yamlResponse, paperResponse] = await Promise.all([
+        fetch(new URL("data.yml", homeBaseUrl)),
+        fetch(new URL("paper.json", homeBaseUrl))
+      ]);
+
+      if (!yamlResponse.ok) throw new Error(`Unable to load data.yml: ${yamlResponse.status}`);
+      if (!paperResponse.ok) throw new Error(`Unable to load paper.json: ${paperResponse.status}`);
+
+      this.data = jsyaml.load(await yamlResponse.text());
+      this.papers = await paperResponse.json();
       this.setHead();
       this.setStructuredData();
       await nextTick();
