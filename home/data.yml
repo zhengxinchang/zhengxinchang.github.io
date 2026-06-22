@@ -212,8 +212,8 @@ tools:
       - label: Website
         href: https://zhengxinchang.github.io/protdb/
 
-  - name: Isopedia splice view
-    description: Splice visualization for Isopedia output.
+  - name: Isopedia
+    description: Population-scale interpretation of isoforms
     logo: assets/isopedia-logo.png
     featured: true
     featured_order: 1
