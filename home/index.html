@@ -1,0 +1,210 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Xinchang Zheng | Genomics and Bioinformatics</title>
+    <meta
+      name="description"
+      content="Personal homepage for Xinchang Zheng, a genomics and bioinformatics researcher building resources, visualization tools, and software for biological data."
+    >
+    <meta name="author" content="Xinchang Zheng">
+    <meta property="og:title" content="Xinchang Zheng | Genomics and Bioinformatics">
+    <meta
+      property="og:description"
+      content="Research interests, academic profile, and software projects by Xinchang Zheng."
+    >
+    <meta property="og:type" content="website">
+    <link rel="icon" href="./assets/isopedia-logo.png">
+    <link rel="stylesheet" href="./styles.css">
+  </head>
+  <body>
+    <div id="app" v-cloak>
+      <a class="skip-link" href="#main">Skip to content</a>
+
+      <header class="site-header">
+        <nav class="nav" aria-label="Primary navigation" v-if="data">
+          <a class="brand" href="#home" :aria-label="data.profile.name + ' home'" @click="closeNav">
+            <span class="brand-mark" aria-hidden="true">{{ data.profile.initials }}</span>
+            <span>{{ data.profile.name }}</span>
+          </a>
+          <button
+            class="nav-toggle"
+            type="button"
+            :aria-expanded="String(navOpen)"
+            aria-controls="nav-menu"
+            @click="navOpen = !navOpen"
+          >
+            <span></span>
+            <span></span>
+            <span></span>
+            <span class="sr-only">Menu</span>
+          </button>
+          <div class="nav-links" id="nav-menu" :class="{ 'is-open': navOpen }">
+            <a
+              v-for="item in data.nav"
+              :key="item.label"
+              :href="item.href"
+              :target="isExternal(item) ? '_blank' : null"
+              :rel="isExternal(item) ? 'noreferrer' : null"
+              :class="{ active: item.href === '#' + activeId }"
+              @click="closeNav"
+            >
+              {{ item.label }}
+            </a>
+          </div>
+        </nav>
+      </header>
+
+      <main id="main">
+        <section class="section" v-if="error">
+          <div class="section-heading">
+            <p class="eyebrow">Data</p>
+            <h1>Unable to load homepage data</h1>
+          </div>
+          <div class="body-copy">
+            <p>
+              The homepage content lives in home/data.yml. Open this page through GitHub Pages or a
+              local HTTP server so the browser can read that YAML file.
+            </p>
+          </div>
+        </section>
+
+        <section class="section" aria-live="polite" v-else-if="!data">
+          <div class="section-heading">
+            <p class="eyebrow">Loading</p>
+            <h1>Xinchang Zheng</h1>
+          </div>
+        </section>
+
+        <template v-else>
+          <section class="hero" id="home" aria-labelledby="hero-title">
+            <div class="hero-profile">
+              <div class="avatar" aria-hidden="true">
+                <img v-if="data.profile.photo" :src="asset(data.profile.photo)" alt="">
+                <span v-else>{{ data.profile.initials }}</span>
+              </div>
+              <div>
+                <p class="eyebrow">{{ data.profile.eyebrow }}</p>
+                <h1 id="hero-title">{{ data.profile.name }}</h1>
+                <p class="role">{{ data.profile.role }}</p>
+              </div>
+              <div class="profile-links" aria-label="Profile links">
+                <a
+                  class="icon-link"
+                  v-for="item in data.social"
+                  :key="item.label"
+                  :href="item.href"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  <img :src="asset(item.icon)" alt="" width="24" height="24">
+                  <span>{{ item.label }}</span>
+                </a>
+              </div>
+            </div>
+
+            <div class="hero-copy">
+              <p>{{ data.one_sentence }}</p>
+              <div class="hero-actions">
+                <a
+                  v-for="item in data.hero_actions"
+                  :key="item.label"
+                  :class="['button', item.style || 'secondary']"
+                  :href="item.href"
+                >
+                  {{ item.label }}
+                </a>
+              </div>
+            </div>
+          </section>
+
+          <section class="section about-section" id="about" aria-labelledby="about-title">
+            <div class="section-heading">
+              <p class="eyebrow">{{ data.about.eyebrow }}</p>
+              <h2 id="about-title">{{ data.about.title }}</h2>
+            </div>
+            <div class="body-copy">
+              <p v-for="paragraph in data.about.paragraphs" :key="paragraph">{{ paragraph }}</p>
+            </div>
+          </section>
+
+          <section class="section" id="research" aria-labelledby="research-title">
+            <div class="section-heading">
+              <p class="eyebrow">Research</p>
+              <h2 id="research-title">Research directions</h2>
+            </div>
+            <div class="research-grid">
+              <article class="research-item" v-for="(item, index) in data.research" :key="item.title">
+                <span class="topic-number">{{ topicNumber(index) }}</span>
+                <h3>{{ item.title }}</h3>
+                <p>{{ item.description }}</p>
+              </article>
+            </div>
+          </section>
+
+          <section class="section" id="tools" aria-labelledby="tools-title">
+            <div class="section-heading with-note">
+              <div>
+                <p class="eyebrow">{{ data.tools_intro.eyebrow }}</p>
+                <h2 id="tools-title">{{ data.tools_intro.title }}</h2>
+              </div>
+              <p class="section-note">{{ data.tools_intro.note }}</p>
+            </div>
+
+            <div class="featured-tools" aria-label="Featured tools">
+              <article class="tool-card" v-for="tool in featuredTools" :key="tool.name">
+                <img :src="asset(tool.logo || data.site.favicon)" alt="" width="56" height="56">
+                <div>
+                  <h3>{{ tool.name }}</h3>
+                  <p>{{ tool.description }}</p>
+                  <a :href="tool.links[0].href" target="_blank" rel="noreferrer">Open project</a>
+                </div>
+              </article>
+            </div>
+
+            <div class="table-wrap">
+              <table>
+                <caption>{{ data.tools_intro.table_caption }}</caption>
+                <thead>
+                  <tr>
+                    <th scope="col">Name</th>
+                    <th scope="col">Description</th>
+                    <th scope="col">Links</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr v-for="tool in data.tools" :key="tool.name">
+                    <th scope="row">{{ tool.name }}</th>
+                    <td>{{ tool.description }}</td>
+                    <td class="link-list">
+                      <a
+                        v-for="link in tool.links"
+                        :key="link.label + link.href"
+                        :href="link.href"
+                        target="_blank"
+                        rel="noreferrer"
+                      >
+                        {{ link.label }}
+                      </a>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+          </section>
+        </template>
+      </main>
+
+      <footer class="footer" v-if="data">
+        <p>&copy; <span>{{ year }}</span> {{ data.profile.name }}</p>
+        <a href="#home">{{ data.footer.back_to_top }}</a>
+      </footer>
+    </div>
+
+    <script id="structured-data" type="application/ld+json"></script>
+    <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/js-yaml@4/dist/js-yaml.min.js"></script>
+    <script src="./script.js"></script>
+  </body>
+</html>

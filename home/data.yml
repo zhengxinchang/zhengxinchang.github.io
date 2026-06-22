@@ -1,0 +1,226 @@
+# Homepage content. Edit this file to update text, links, research directions,
+# and tools without touching HTML or JavaScript.
+
+site:
+  title: Xinchang Zheng | Genomics and Bioinformatics
+  description: >
+    Personal homepage for Xinchang Zheng, a genomics and bioinformatics
+    researcher building resources, visualization tools, and software for
+    biological data.
+  og_description: >
+    Research interests, academic profile, and software projects by Xinchang
+    Zheng.
+  url: https://zhengxinchang.github.io/
+  favicon: assets/logo.png
+
+profile:
+  name: Xinchang Zheng
+  initials: XZ
+  photo: assets/xinchang.png
+  eyebrow: Genomics · Bioinformatics · Long-read Sequencing · Algorithm Development · Cancer
+  role: >
+    Postdoctoral Researcher at the Human Genome Sequencing Center, Baylor
+    College of Medicine.
+  affiliation: Baylor College of Medicine
+
+nav:
+  - label: About
+    href: "#about"
+  - label: Research
+    href: "#research"
+  - label: Tools
+    href: "#tools"
+  - label: GitHub
+    href: https://github.com/zhengxinchang/
+    external: true
+  - label: Google Scholar
+    href: https://scholar.google.com/citations?user=nqMQA_MAAAAJ&hl=en
+    external: true
+
+social:
+  - label: GitHub
+    href: https://github.com/zhengxinchang/
+    icon: assets/github.png
+  - label: Google Scholar
+    href: https://scholar.google.com/citations?user=nqMQA_MAAAAJ&hl=en
+    icon: assets/google-scholar.png
+  - label: LinkedIn
+    href: https://www.linkedin.com/in/xinchang-zheng-9471a3256/
+    icon: assets/linkedin.svg
+
+one_sentence: |
+  I mainly work on method/online-resource development for large-scale sequencing data indexing/interpretation.
+  I have background on Cancer genomics.
+
+hero_actions:
+  - label: Research directions
+    href: "#research"
+    style: primary
+  - label: Software and tools
+    href: "#tools"
+    style: secondary
+
+about:
+  eyebrow: About
+  title: A compact academic profile
+  paragraphs:
+    - >
+      My research develops computational infrastructure for analyzing biological variation 
+      at population scale, with a focus on long-read sequencing.
+    - >
+      Conventional per-sample frameworks become fundamentally inefficient as collections grow 
+      to thousands of samples—a bottleneck especially acute for long-read data, where rich isoform 
+      and structural-variant information remains largely inaccessible without purpose-built 
+      tools. My approach reorganizes biological data around specific variation types rather 
+      than monolithic per-sample files, enabling efficient, targeted queries across populations.
+    - >
+      I further extend this paradigm from the variation level to the knowledge level, drawing 
+      on ontologies and specialized database and indexing techniques to aggregate variant callsets, 
+      raw sequence, and curated annotations into unified, structured online resources for global sharing.
+
+research:
+  - title: Long-read genomics
+    description: >
+      Indexing, querying, and interpreting long-read variation data, with
+      attention to scalable search and practical cohort analysis.
+  - title: Cancer genomics and multi-omics
+    description: >
+      Building resources that connect cancer genomes, annotations, metabolic
+      knowledge, and cell-line identity across data layers.
+  - title: Transcriptomics and isoforms
+    description: >
+      Curating and visualizing alternative splicing, isoform structure, and
+      expression evidence for easier biological interpretation.
+  - title: Scientific web software
+    description: >
+      Designing web tools, databases, and visualization libraries that make
+      complex genomics outputs inspectable and reusable.
+
+tools_intro:
+  eyebrow: Tools
+  title: Software and resources
+  note: Selected projects from my existing GitHub Pages and research notes.
+  table_caption: Tools, papers, code, and websites
+
+tools:
+  - name: STIX-LR
+    description: Extends STIX to long-read datasets.
+    featured: false
+    links:
+      - label: Paper
+        href: https://www.biorxiv.org/content/10.1101/2024.09.30.615931v1.abstract
+      - label: Code
+        href: https://github.com/zhengxinchang/stix
+
+  - name: CCAS
+    description: Webserver for individual cancer genome annotation at multi-omics level.
+    featured: false
+    links:
+      - label: Paper
+        href: https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2022.956781/full
+      - label: Website
+        href: https://ngdc.cncb.ac.cn/ccas/#/
+
+  - name: CCLHunter
+    description: Webserver to identify cancer cell lines.
+    featured: false
+    links:
+      - label: Paper
+        href: https://www.sciencedirect.com/science/article/pii/S2001037023003537
+      - label: Code
+        href: https://github.com/zhengxinchang/cclhunter-frontend
+      - label: Website
+        href: https://ngdc.cncb.ac.cn/cclhunter/home
+
+  - name: GenBase
+    description: A nucleotide sequence database.
+    logo: assets/logo.png
+    featured: true
+    featured_order: 4
+    links:
+      - label: Paper
+        href: https://academic.oup.com/gpb/article/22/3/qzae047/7698051
+      - label: Website
+        href: https://ngdc.cncb.ac.cn/genbase/
+
+  - name: MACdb
+    description: Manually curated cancer metabolism database.
+    featured: false
+    links:
+      - label: Paper
+        href: https://aacrjournals.org/mcr/article/21/7/691/727468
+      - label: Website
+        href: https://ngdc.cncb.ac.cn/macdb/
+
+  - name: Hapnet.js
+    description: WebGPU-powered haplotype visualization library.
+    logo: assets/logo.png
+    featured: true
+    featured_order: 3
+    links:
+      - label: Code
+        href: https://github.com/zhengxinchang/hapnet.js
+      - label: Website
+        href: https://zhengxinchang.github.io/hapnetjs/dist/
+
+  - name: IsoMatch
+    description: Software for matching and comparing isoform structures.
+    logo: assets/logo.png
+    featured: true
+    featured_order: 2
+    links:
+      - label: Code
+        href: https://github.com/zhengxinchang/isomatch
+
+  - name: IsoAtlas
+    description: Web interface for exploring isoform atlas resources.
+    logo: assets/isoatlas-logo.png
+    featured: false
+    links:
+      - label: Website
+        href: https://zhengxinchang.github.io/isoatlas/
+
+
+  - name: STIX webserver
+    description: Front-end of the STIX webserver.
+    featured: false
+    links:
+      - label: Paper
+        href: https://www.biorxiv.org/content/10.1101/2024.09.30.615931v1.abstract
+      - label: Website
+        href: https://zhengxinchang.github.io/stix/
+
+  - name: ADASD
+    description: Front-end of the ADASD webserver.
+    logo: assets/adasdb-logo.jpg
+    featured: false
+    links:
+      - label: Website
+        href: https://zhengxinchang.github.io/adasdb/
+
+  - name: Protdb
+    description: Front-end of a proteomics database.
+    logo: assets/protdb-logo.png
+    featured: false
+    links:
+      - label: Website
+        href: https://zhengxinchang.github.io/protdb/
+
+  - name: Isopedia splice view
+    description: Splice visualization for Isopedia output.
+    logo: assets/isopedia-logo.png
+    featured: true
+    featured_order: 1
+    links:
+      - label: Website
+        href: https://zhengxinchang.github.io/isopedia/
+
+  - name: Read2TreeView
+    description: Visualization for Read2Tree output.
+    featured: false
+    links:
+      - label: Website
+        href: https://zhengxinchang.github.io/r2t/
+
+footer:
+  back_to_top: Back to top
