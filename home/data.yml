@@ -63,6 +63,12 @@ hero_actions:
 about:
   eyebrow: About
   title: A compact academic profile
+  last_update: June 2026
+  stats:
+    - label: Publications
+      value: "37"
+    - label: Citations
+      value: "2,247"
   paragraphs:
     - >
       My research develops computational infrastructure for analyzing biological variation 

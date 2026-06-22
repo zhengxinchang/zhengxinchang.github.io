@@ -15,7 +15,7 @@
       content="Research interests, academic profile, and software projects by Xinchang Zheng."
     >
     <meta property="og:type" content="website">
-    <link rel="icon" href="./assets/isopedia-logo.png">
+    <link rel="icon" href="./assets/logo.png">
     <link rel="stylesheet" href="./styles.css">
   </head>
   <body>
@@ -73,48 +73,50 @@
         <section class="section" aria-live="polite" v-else-if="!data">
           <div class="section-heading">
             <p class="eyebrow">Loading</p>
-            <h1>Xinchang Zheng</h1>
+            <h2>Xinchang Zheng</h2>
           </div>
         </section>
 
         <template v-else>
           <section class="hero" id="home" aria-labelledby="hero-title">
             <div class="hero-profile">
-              <div class="avatar" aria-hidden="true">
-                <img v-if="data.profile.photo" :src="asset(data.profile.photo)" alt="">
-                <span v-else>{{ data.profile.initials }}</span>
-              </div>
-              <div>
+              <div class="hero-media">
+                <div class="avatar" aria-hidden="true">
+                  <img v-if="data.profile.photo" :src="asset(data.profile.photo)" alt="">
+                  <span v-else>{{ data.profile.initials }}</span>
+                </div>
                 <p class="eyebrow">{{ data.profile.eyebrow }}</p>
+              </div>
+
+              <div class="hero-details">
                 <h1 id="hero-title">{{ data.profile.name }}</h1>
                 <p class="role">{{ data.profile.role }}</p>
-              </div>
-              <div class="profile-links" aria-label="Profile links">
-                <a
-                  class="icon-link"
-                  v-for="item in data.social"
-                  :key="item.label"
-                  :href="item.href"
-                  target="_blank"
-                  rel="noreferrer"
-                >
-                  <img :src="asset(item.icon)" alt="" width="24" height="24">
-                  <span>{{ item.label }}</span>
-                </a>
-              </div>
-            </div>
+                <p class="hero-intro">{{ data.one_sentence }}</p>
 
-            <div class="hero-copy">
-              <p>{{ data.one_sentence }}</p>
-              <div class="hero-actions">
-                <a
-                  v-for="item in data.hero_actions"
-                  :key="item.label"
-                  :class="['button', item.style || 'secondary']"
-                  :href="item.href"
-                >
-                  {{ item.label }}
-                </a>
+                <div class="profile-links" aria-label="Profile links">
+                  <a
+                    class="icon-link"
+                    v-for="item in data.social"
+                    :key="item.label"
+                    :href="item.href"
+                    target="_blank"
+                    rel="noreferrer"
+                  >
+                    <img :src="asset(item.icon)" alt="" width="24" height="24">
+                    <span>{{ item.label }}</span>
+                  </a>
+                </div>
+
+                <div class="hero-actions">
+                  <a
+                    v-for="item in data.hero_actions"
+                    :key="item.label"
+                    :class="['button', item.style || 'secondary']"
+                    :href="item.href"
+                  >
+                    {{ item.label }}
+                  </a>
+                </div>
               </div>
             </div>
           </section>
@@ -125,7 +127,16 @@
               <h2 id="about-title">{{ data.about.title }}</h2>
             </div>
             <div class="body-copy">
-              <p v-for="paragraph in data.about.paragraphs" :key="paragraph">{{ paragraph }}</p>
+              <div class="about-copy">
+                <p v-for="paragraph in data.about.paragraphs" :key="paragraph">{{ paragraph }}</p>
+              </div>
+              <div class="about-stats" aria-label="Academic statistics">
+                <article class="stat-card" v-for="stat in data.about.stats" :key="stat.label">
+                  <p>{{ stat.label }}</p>
+                  <strong>{{ stat.value }}</strong>
+                </article>
+                <p class="last-update">Last update: {{ data.about.last_update }}</p>
+              </div>
             </div>
           </section>
 
