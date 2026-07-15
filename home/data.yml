@@ -196,14 +196,16 @@ tools:
         href: https://zhengxinchang.github.io/isoatlas/
 
 
-  - name: STIX webserver
-    description: Front-end of the STIX webserver.
+  - name: STIX
+    description: Annotate SV with population indexs from raw read.
     featured: false
     links:
       - label: Paper
         href: https://www.biorxiv.org/content/10.1101/2024.09.30.615931v1.abstract
       - label: Website
         href: https://zhengxinchang.github.io/stix/
+      - label: Code
+        href: https://github.com/zhengxinchang/stix
 
   - name: ADASD
     description: Front-end of the ADASD webserver.
@@ -227,8 +229,8 @@ tools:
     featured: true
     featured_order: 1
     links:
-      - label: Website
-        href: https://zhengxinchang.github.io/isopedia/
+      - label: Code
+        href: https://github.com/zhengxinchang/isopedia
 
   - name: Read2TreeView
     description: Visualization for Read2Tree output.
