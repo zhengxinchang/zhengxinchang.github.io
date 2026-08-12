@@ -2,6 +2,23 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
+    <script>
+      (function () {
+        var legacyHost = "zhengxinchang.github.io";
+        var legacyPath = "/isoatlas";
+        var path = window.location.pathname;
+
+        if (window.location.hostname !== legacyHost) return;
+        if (path !== legacyPath && path !== legacyPath + "/") return;
+
+        window.location.replace(
+          "https://www.isoatlas.org/" +
+            window.location.search +
+            (window.location.hash || "#/")
+        );
+      })();
+    </script>
+    <link rel="canonical" href="https://www.isoatlas.org/#/" />
     <link rel="icon" type="image/svg+xml" href="/isoatlas/logo-short.png" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>IsoAtlas</title>
